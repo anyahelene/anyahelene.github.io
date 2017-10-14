@@ -39,6 +39,6 @@ More guidelines:
 
 ## Applying to the Master and PhD programmes
 
-* [Master application with Norway/Nordic residents](http://www.uib.no/en/matnat/54992/international-masters-degree-applicants-residing-norway)
+* [Master application for residents of Norway / Nordic countries](http://www.uib.no/en/matnat/54992/international-masters-degree-applicants-residing-norway)
 * [All master application guidelines](http://www.uib.no/en/education/48766/how-apply-masters-degree) (including for EU/EEA/Swiss citizens, and for earthlings in general)
 * For a PhD, you will need a funded PhD position. There's are announced at [uib.no/ii](http://uib.no/ii) from time to time.
