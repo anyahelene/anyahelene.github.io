@@ -1,13 +1,13 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+{{ assign colorScheme = 'light' }}
+{{ assign bgColor = '#151515' }}
+{{ assign fgColor = '#eaeaea' }}
+{{ assign hdColor = '#b5e853' }}
+{{ assign lnColor = '#63c0f5' }}
 
-.container {
-    width: 90%;
-    max-width: 80em;
-    margin: 0 auto;
-}
+@import "parameterized-hacker";
 
 @font-face {
     font-family: "ZX Spectrum-7 Mono";

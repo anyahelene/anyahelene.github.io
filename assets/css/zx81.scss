@@ -1,23 +1,13 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+{{ assign colorScheme = 'light' }}
+{{ assign bgColor = '#f0f0e8' }}
+{{ assign fgColor = '#000000' }}
+{{ assign hdColor = '#103010' }}
+{{ assign lnColor = '#101030' }}
 
-body {
-    background: #f0f0e8;
-//  background: #f0f0e8 url("../images/bkg.png") 0 0;
-  color: #000000;
-}
-
-header {
-    background: rgba(240, 240, 232, 0.1);
-}
-
-.container {
-    width: 90%;
-    max-width: 80em;
-    margin: 0 auto;
-}
+@import "parameterized-hacker";
 
 @font-face {
     font-family: "ZX Spectrum-7 Mono";
