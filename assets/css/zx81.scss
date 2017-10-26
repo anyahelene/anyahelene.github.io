@@ -205,7 +205,8 @@ $colorSep2: rgba(255,16,16,0.3);
   }
 }
 body {
-  animation: textShadow 1.6s infinite;
+    animation: textShadow 1.6s infinite;
+    text-shadow 0 0 1px rgba(0,0,0,0.1);
 }
 
 
