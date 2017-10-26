@@ -1,6 +1,5 @@
 ---
 ----
-@import "rouge-base16-dark";
 {% if colorScheme == 'light' %}
   {% assign bgTransform = 'lighten' %}
   {% assign fgTransform = 'darken' %}
@@ -12,6 +11,8 @@
   {% assign bgExtreme = '#000' %}
   {% assign fgExtreme = '#fff' %}
 {% endif %}
+
+@import "rouge-base16-dark";
 
 body {
   margin: 0;
