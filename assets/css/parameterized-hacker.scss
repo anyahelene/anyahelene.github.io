@@ -14,8 +14,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  text-shadow: 0px 0 2px transparentize($fgColor, 0.9),
-              -4px 0 1px transparentize($fgColor, 0.8);
 }
 
 /* General & 'Reset' Stuff */
