@@ -1,24 +1,16 @@
----
----
-{% if colorScheme == 'light' %}
-  {% assign bgTransform = 'lighten' %}
-  {% assign fgTransform = 'darken' %}
-  {% assign bgExtreme = '#fff' %}
-  {% assign fgExtreme = '#000' %}
-{% else %}
-  {% assign bgTransform = 'darken' %}
-  {% assign fgTransform = 'lighten' %}
-  {% assign bgExtreme = '#000' %}
-  {% assign fgExtreme = '#fff' %}
-{% endif %}
+$light = lightness($bgColor) > 50%;
+$bgTransform = if($light, 'lighten', 'darken');
+$fgTransform = if($light, 'darken', 'lighten');
+$bgExtreme = if($light, #fff, #000);
+$fgExtreme = if($light, #000, #fff);
 
 @import "rouge-base16-dark";
 
 body {
   margin: 0;
   padding: 0;
-  background: {{ bgColor }};
-  color: {{ fgColor }};
+  background: $bgColor;
+  color: $fgColor;
   font-size: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -52,9 +44,9 @@ li {
 */
 
 header {
-  background: {{ bgTransform }}({{ bgColor }}, 10%);
+  background: $bgTransform($bgColor, 10%);
   width: 100%;
-  border-bottom: 1px dashed {{ hdColor }};
+  border-bottom: 1px dashed $hdColor;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -65,7 +57,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
 //  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: {{ hdColor }};
+  color: $hdColor;
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 }
@@ -78,7 +70,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: {{ bgTransform }}({{ hdColor }}, 10%);
+  color: $bgTransform($hdColor, 10%);
 }
 
 #downloads .btn {
@@ -101,11 +93,11 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 //  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: {{ hdColor }};
+  color: $hdColor;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px transparentize({{ bgExtreme }}, 10%),
-               0 0 5px transparentize({{ hdColor }}, 10%),
-               0 0 10px transparentize({{ hdColor }}, 10%);
+  text-shadow: 0 1px 1px transparentize($bgExtreme, 10%),
+               0 0 5px transparentize($hdColor, 10%),
+               0 0 10px transparentize($hdColor, 10%);
 }
 
 #main_content h1 {
@@ -133,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h6 {
   font-size: 12px;
   text-transform: uppercase;
-  color: {{ fgTransform }}({{ hdColor }}, 10%);
+  color: $fgTransform($hdColor, 10%);
   margin: 0 0 5px 0;
 }
 
@@ -147,9 +139,9 @@ ul li {
 }
 
 blockquote {
-  color: {{ bgTransform }}({{ fgColor }}, 10%);
+  color: $bgTransform($fgColor, 10%);
   padding-left: 10px;
-  border-left: 1px dotted {{ fgTransform }}({{ hdColor }}, 10%);
+  border-left: 1px dotted $fgTransform($hdColor, 10%);
 }
 
 pre {
@@ -171,7 +163,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed {{ hdColor }};
+  border-bottom: 1px dashed $hdColor;
   padding: 5px 10px;
 }
 
@@ -182,8 +174,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed {{ hdColor }};
-  color: {{ hdColor }};
+  border-bottom: 1px dashed $hdColor;
+  color: $hdColor;
 }
 
 /* Buttons
@@ -228,8 +220,8 @@ hr {
 */
 
 a {
-  color: {{ lnColor }};
-  text-shadow: 0 0 5px transparentize({{ bgExtreme }}, 50%);
+  color: $lnColor;
+  text-shadow: 0 0 5px transparentize($bgExtreme, 50%);
 }
 
 /* Clearfix */

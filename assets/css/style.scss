@@ -1,11 +1,10 @@
 ---
 ---
 
-{{ assign colorScheme = 'light' }}
-{{ assign bgColor = '#151515' }}
-{{ assign fgColor = '#eaeaea' }}
-{{ assign hdColor = '#b5e853' }}
-{{ assign lnColor = '#63c0f5' }}
+$bgColor = #151515'
+$fgColor = #eaeaea'
+$hdColor = #b5e853'
+$lnColor = #63c0f5'
 
 @import "parameterized-hacker";
 
