@@ -134,9 +134,9 @@ body::after {
 
 
 // from http://aleclownes.com/2017/02/01/crt-display.html
-$colorSepSize: 0px;
-$colorSep1: rgba(0,255,255,0.05);
-$colorSep2: rgba(255,16,16,0.05);
+$colorSepSize: 3px;
+$colorSep1: rgba(0,255,255,0.5);
+$colorSep2: rgba(255,16,16,0.3);
 //$colorSep1: rgba(0,30,255,0.5);
 //$colorSep2: rgba(255,0,80,0.3);
 @keyframes textShadow {
