@@ -1,8 +1,8 @@
-$light = lightness($bgColor) > 50%;
-$bgTransform = if($light, 'lighten', 'darken');
-$fgTransform = if($light, 'darken', 'lighten');
-$bgExtreme = if($light, #fff, #000);
-$fgExtreme = if($light, #000, #fff);
+$light: lightness($bgColor) > 50%;
+$bgTransform: if($light, 'lighten', 'darken');
+$fgTransform: if($light, 'darken', 'lighten');
+$bgExtreme: if($light, #fff, #000);
+$fgExtreme: if($light, #000, #fff);
 
 @import "rouge-base16-dark";
 
