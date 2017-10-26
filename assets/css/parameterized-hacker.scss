@@ -95,9 +95,9 @@ h1, h2, h3, h4, h5, h6 {
 //  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $hdColor;
   letter-spacing: -0.03em;
-  text-shadow: 0 1px 1px transparentize($bgExtreme, 10%),
-               0 0 5px transparentize($hdColor, 10%),
-               0 0 10px transparentize($hdColor, 10%);
+  text-shadow: 0 1px 1px transparentize($bgExtreme, 0.1),
+               0 0 5px transparentize($hdColor, 0.1),
+               0 0 10px transparentize($hdColor, 0.1);
 }
 
 #main_content h1 {
@@ -221,7 +221,7 @@ hr {
 
 a {
   color: $lnColor;
-  text-shadow: 0 0 5px transparentize($bgExtreme, 50%);
+  text-shadow: 0 0 5px transparentize($bgExtreme, 0.5);
 }
 
 /* Clearfix */
