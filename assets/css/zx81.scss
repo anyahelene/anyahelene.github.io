@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 body {
-  background: #f0f0e8 url("../images/bkg.png") 0 0;
+    background: #f0f0e8;
+//  background: #f0f0e8 url("../images/bkg.png") 0 0;
   color: #000000;
 }
 
