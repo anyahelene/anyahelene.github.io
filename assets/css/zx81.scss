@@ -116,7 +116,7 @@ body::before {
   opacity: 0.24387;
   }
 }
-
+/*
 .flicker::after {
   content: " ";
   display: block;
@@ -131,7 +131,7 @@ body::before {
   pointer-events: none;
   animation: flicker 1.15s infinite;
 }
-
+*/
 
 // from http://aleclownes.com/2017/02/01/crt-display.html
 $colorSepSize: 0px;
@@ -206,7 +206,7 @@ $colorSepFactor: 0.5;
   }
 }
 body {
-    animation: textShadow 1.6s infinite;
+    animation: textShadow 3.6s infinite;
 }
 
 
