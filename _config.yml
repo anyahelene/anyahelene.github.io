@@ -4,3 +4,4 @@ sass:
 
 permalink: /blog/:year/:month/:day/:slug/
 timezone: Europe/Amsterdam
+author: Anya Helene Bagge
