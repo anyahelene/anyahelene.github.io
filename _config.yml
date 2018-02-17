@@ -1,4 +1,6 @@
 theme: jekyll-theme-hacker
 sass:
     sass_dir: assets/css/
-    
+
+permalink: /blog/:year/:month/:day/:slug/
+timezone: Europe/Amsterdam
