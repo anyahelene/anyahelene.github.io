@@ -108,8 +108,8 @@ h1, h2, h3, h4, h5, h6 {
       color: $hdColor;
       text-decoration: none;
   }
-    text-shadow: -1px -1px 2px transparentize($bgExtreme, 0.1),
-    0 0 3px transparentize($hdColor, 0.01);
+    text-shadow: 0 0 1px transparentize($bgExtreme, 0.4),
+    1px 1px 5px transparentize($hdColor, 0.9);
 //  text-shadow: 0 1px 1px transparentize($bgExtreme, 0.1),
 //               0 0 5px transparentize($hdColor, 0.1),
 //               0 0 10px transparentize($hdColor, 0.1);
