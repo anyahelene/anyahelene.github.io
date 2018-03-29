@@ -1,6 +1,9 @@
-# Studiekvalitet og studentkvalitet
-### (et svar til Professor Knutsen og Professor Emeritus Hagtvet)
-*Anya Helene Bagge, førsteamanuensis i programmeringsspråk ved Universitetet i Bergen.*
+---
+layout: post
+title:  "Studiekvalitet og studentkvalitet"
+date:   2018-03-29 21:56:01 +0200
+categories: education norwegian
+##### (et svar til Professor Torbjørn L. Knutsen og Professor Bernt Emeritus Hagtvet)
 
 *«Studerer ikke studentene lenger?»* spør statsviterne Torbjørn
 L. Knutsen og Bernt Hagtvet i Aftenposten fredag. I likhet med
@@ -196,6 +199,24 @@ studentene med slik utilslørt forakt, når de bare har benyttet seg av
 mulighetene samfunnet vår tilbyr dem og oppfordrer dem til å benytte
 seg av.
 
+### Professorer *skal* være pedagoger 
+
+Professor Høgberg er ikke like ekstrem i sin kritikk somm Knutsen og
+Hagtvet, og har en del gode og godt motiverte poenger i sine
+uttalelser.  Jeg vil tro det er bred enighet, også blant studenter, om
+at hetsing og mobbing er uakseptabelt. Men gullkornet om at
+«professorer skal ikke ha pedagogiske evner» er både uriktig og vitner
+om feil innstilling til jobben. Om det ikke var det da Høgberg ble
+ansatt, så er det nå helt klart formelle krav om pedagogisk kompetanse
+når man ansetter i førstestillinger og når man vurderer opprykk til
+professor. Men det er klart at det å undervise ikke er en enkel
+oppgave, og i likhet med kritisk tenkning og vitenskapelig skriving må
+det trenes opp. Og som vi har sett over, så er opptrening av
+ferdigheter arbeidskrevende, og det trenger ikke være slik at
+pedagogiske ferdigheter er noe professorer må skaffe seg selv. Men da
+er det gjerne flere en bare studentene man må slutte å «dulle med»,
+som Knutsen og Hagtvet så fint uttrykker det.
+
 Som universitetslærere er ikke jobben vår å produsere blåkopier av oss
 selv, uansett hvor fantastiske vi måtte være. Vår oppgave er å gi de
 neste generasjonene den bakgrunnen de trenger i *sin verden* – som
@@ -220,3 +241,7 @@ forståelse, omsorg og fleksibilitet overfor andre; absurd
 tilrettelegging fra *studentenes* side kan komme godt med den dagen
 man skal prøve å gjenoppbygge tilliten etter å ha omtalt dem som
 udugelige tapere i Aftenposten.
+
+---
+
+*Anya Helene Bagge, førsteamanuensis i programmeringsspråk ved Universitetet i Bergen.*
