@@ -63,7 +63,7 @@ li {
 
 header {
   background: call($bgTransform, $bgColor, 10%);
-  width: 100%;
+  width: 100%; 
   border-bottom: 1px dashed $hdColor;
   padding: 20px 0;
   margin: 0 0 40px 0;
