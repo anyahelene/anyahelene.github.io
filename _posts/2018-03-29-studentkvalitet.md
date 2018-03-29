@@ -52,9 +52,9 @@ mangel på moral. De vil likevel ha oss til å tro at *denne gangen* er
 det annerledes. En slik utrolig påstand bør helst følges opp med svært
 troverdige argumenter.
 
-<div style="float: right; position: relative; width: 30%">
+<div class="rightbox">
 <img src="{{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }}" alt="Skolen i Athen, av Raphael" />
-<p style="font-size: smaller">
+<p>
 Folk har klaget over de unges forfall til alle tider; det kjente
 sitatet «The children now love luxury. They have bad manners, contempt
 for authority; they show disrespect for elders and love chatter in
