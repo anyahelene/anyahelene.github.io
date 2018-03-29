@@ -62,10 +62,12 @@ header h1 {
   -webkit-font-smoothing: antialiased;
 }
 
+/*
 header h1:before {
   content: "./ ";
   font-size: 24px;
 }
+*/
 
 header h2 {
   font-size: 18px;
@@ -94,14 +96,13 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 //  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $hdColor;
-  letter-spacing: -0.03em;
   a {
       color: $hdColor;
       text-decoration: none;
   }
-//  text-shadow: 0 1px 1px transparentize($bgExtreme, 0.1),
-//               0 0 5px transparentize($hdColor, 0.1),
-//               0 0 10px transparentize($hdColor, 0.1);
+  text-shadow: 0 1px 1px transparentize($bgExtreme, 0.1),
+               0 0 5px transparentize($hdColor, 0.1),
+               0 0 10px transparentize($hdColor, 0.1);
 }
 
 #main_content h1 {
