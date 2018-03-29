@@ -52,17 +52,18 @@ mangel på moral. De vil likevel ha oss til å tro at *denne gangen* er
 det annerledes. En slik utrolig påstand bør helst følges opp med svært
 troverdige argumenter.
 
-<div style="float: right; position: relative; width: 50%">
-![Skolen i Athen, av Raphael]({{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }})
-
+<div style="float: right; position: relative; width: 30%">
+<img src="{{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }}" alt="Skolen i Athen, av Raphael" />
+<p style="font-size: smaller">
 Folk har klaget over de unges forfall til alle tider; det kjente
 sitatet «The children now love luxury. They have bad manners, contempt
 for authority; they show disrespect for elders and love chatter in
 place of exercise.» blir gjerne tilskrevet Sokrates, men kommer
 egentlig fra
-[en avhandling skrevet i 1907](https://quoteinvestigator.com/2010/05/01/misbehaving-children-in-ancient-times/). Men
+<a href="https://quoteinvestigator.com/2010/05/01/misbehaving-children-in-ancient-times/">en avhandling skrevet i 1907</a>. Men
 Platon lar Sokrates
-[refse forfallet både blant ungdommen, dyrene og samfunnet generelt i *Republikken*](http://plato-dialogues.org/faq/faq003.htm).
+<a href="http://plato-dialogues.org/faq/faq003.htm">refse forfallet både blant ungdommen, dyrene og samfunnet generelt</a> i <em>Republikken</em>.
+</p>
 </div>
 
 Mitt inntrykk av dagens studenter og unge er at de er engasjerte,
