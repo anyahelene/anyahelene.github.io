@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: post-norw
 title:  "Studiekvalitet og studentkvalitet"
 date:   2018-03-29 21:56:01 +0200
+style: light
 categories: education norwegian
 ---
 ##### (et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet)
@@ -60,9 +61,9 @@ troverdige argumenter.
 <img src="{{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }}" alt="Skolen i Athen, av Raphael" /> 
 
 <p> Folk har klaget over de unges forfall til alle tider; det kjente
-sitatet *«The children now love luxury. They have bad manners,
+sitatet <em>«The children now love luxury. They have bad manners,
 contempt for authority; they show disrespect for elders and love
-chatter in place of exercise»* blir gjerne tilskrevet Sokrates, men
+chatter in place of exercise»</em> blir gjerne tilskrevet Sokrates, men
 kommer egentlig fra <a href="https://quoteinvestigator.com/2010/05/01/misbehaving-children-in-ancient-times/">en
 avhandling skrevet i 1907</a>. Men i <em>Republikken</em> lar Platon
 Sokrates <a href="http://plato-dialogues.org/faq/faq003.htm">refse

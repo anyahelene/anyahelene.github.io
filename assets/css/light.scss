@@ -1,0 +1,18 @@
+---
+---
+
+$bgColor: #f0f0e8;
+$fgColor: #000000;
+$hdColor: #101010;
+$lnColor: #101030;
+
+@import "parameterized-hacker";
+@import url('https://fonts.googleapis.com/css?family=Gentium+Basic|Montserrat');
+
+body {
+    font-family: "Gentium Basic", sans-serif;
+}
+
+header h1, h1,h2,h3,h4,h5,h6, .btn {
+    font-family: "Montserrat", sans-serif;
+}
