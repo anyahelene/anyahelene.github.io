@@ -20,7 +20,7 @@ body {
 
 .container {
     width: 90%;
-    max-width: 80em;
+    max-width: 60em;
     margin: 0 auto;
 }
 
@@ -44,7 +44,7 @@ li {
 */
 
 header {
-  background: $bgTransform($bgColor, 10%);
+  background: call($bgTransform, $bgColor, 10%);
   width: 100%;
   border-bottom: 1px dashed $hdColor;
   padding: 20px 0;
@@ -70,7 +70,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: $bgTransform($hdColor, 10%);
+  color: call($bgTransform, $hdColor, 10%);
 }
 
 #downloads .btn {
@@ -129,7 +129,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h6 {
   font-size: 12px;
   text-transform: uppercase;
-  color: $fgTransform($hdColor, 10%);
+  color: call($fgTransform, $hdColor, 10%);
   margin: 0 0 5px 0;
 }
 
@@ -143,9 +143,9 @@ ul li {
 }
 
 blockquote {
-  color: $bgTransform($fgColor, 10%);
+  color: call($bgTransform, $fgColor, 10%);
   padding-left: 10px;
-  border-left: 1px dotted $fgTransform($hdColor, 10%);
+  border-left: 1px dotted call($fgTransform, $hdColor, 10%);
 }
 
 pre {
