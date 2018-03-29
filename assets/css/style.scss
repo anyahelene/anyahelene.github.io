@@ -19,6 +19,9 @@ body, header h1, h1,h2,h3,h4,h5,h6, .btn {
     position: relative;
     float: right;
     margin: 5px 0px 5px 5px;
+    padding: 3px;
     font-size: smaller;
     width: 35%;
+    border: 1px dashed $hdColor;
+
 }
