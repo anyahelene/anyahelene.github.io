@@ -37,13 +37,20 @@ p {
     margin: 16px 0;
 }
 
-p:first-child, p:last-child, p.byline, p.dateline {
+p:first-child, p:last-child {
     margin: 0;
 }
 
-p.byline, p.dateline {
-    font-style: italic;
+
+p.dateline {
+    margin: 0 0 -12px 0;
 }
+
+p.byline {
+    font-style: italic;
+    margin: -8px 0 20px 0;
+}
+
 li {
   line-height: 1.4 ;
 }
