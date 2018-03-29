@@ -30,17 +30,20 @@ section {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    margin: 1em 0 0.5em 0;
+    margin: 20px 0 16px 0;
 }
 
 p {
-    margin: 0.5em 0;
+    margin: 16px 0;
 }
 
-p:first-child, p:last-child {
+p:first-child, p:last-child, p.byline, p.dateline {
     margin: 0;
 }
 
+p.byline, p.dateline {
+    font-style: italic;
+}
 li {
   line-height: 1.4 ;
 }
