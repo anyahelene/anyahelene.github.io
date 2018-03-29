@@ -9,9 +9,21 @@ $lnColor: #63c0f5;
 @import "parameterized-hacker";
 @import url('https://fonts.googleapis.com/css?family=Lekton');
 
-body, header h1, h1,h2,h3,h4,h5,h6, .btn {
+body {
     font-family: Lekton, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-    letter-spacing: -0.03em;
+    font-size: larger;
+    line-height: 1.2;
+}
+
+header h1, h1,h2,h3,h4,h5,h6, .btn {
+    font-family: Lekton, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+    font-size: larger;
+    line-height: 1.2;
+    font-weight: normal;
+}
+
+li {
+  line-height: 1.15 ;
 }
 
 @import "common";
