@@ -11,11 +11,14 @@ site_tagline: Academic Rants
 #### *(et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet)*
 
 *«Studerer ikke studentene lenger?»* spør statsviterne Torbjørn
-L. Knutsen og Bernt Hagtvet i Aftenposten fredag. I likhet med
-jusprofessor Benedikte M. Høgberg har de lagt merke til en urovekkende
-trend: studentene er bortskjemte og passive, de leser og skriver ikke
-lengre, de tar ikke notater – de forventer rett og slett å få ting
-servert på et sølvfat, om man skal tro de opprørte professorene.
+L. Knutsen og Bernt Hagtvet
+[i Aftenposten 23. mars](https://www.aftenposten.no/meninger/kronikk/i/oR84LW/Studerer-ikke-studentene-lenger--Torbjorn-L-Knutsen-og-Bernt-Hagtvet). I
+likhet med
+[jusprofessor Benedikte M. Høgberg](http://universitas.no/nyheter/63907/jusprofessor-skjelte-ut-studentene-sine-i)
+har de lagt merke til en urovekkende trend: studentene er bortskjemte
+og passive, de leser og skriver ikke lengre, de tar ikke notater – de
+forventer rett og slett å få ting servert på et sølvfat, om man skal
+tro de opprørte professorene.
 
 Som relativt nyansatt førsteamanuensis har jeg fremdeles basismodulen
 i universitetspedagogikk friskt i minne. En av tingene vi diskuterte
