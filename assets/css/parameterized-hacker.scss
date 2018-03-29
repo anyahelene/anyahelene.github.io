@@ -108,7 +108,7 @@ h1, h2, h3, h4, h5, h6 {
       color: $hdColor;
       text-decoration: none;
   }
-    text-shadow: 0 0 1px transparentize($fgExtreme, 0.1),
+    text-shadow: 0 0 1px transparentize(#fff, 0.1),
     0 0 5px transparentize($hdColor, 0.2);
 //  text-shadow: 0 1px 1px transparentize($bgExtreme, 0.1),
 //               0 0 5px transparentize($hdColor, 0.1),
