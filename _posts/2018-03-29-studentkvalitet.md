@@ -4,8 +4,9 @@ title:  "Studiekvalitet og studentkvalitet"
 date:   2018-03-29 21:56:01 +0200
 style: light
 categories: education norwegian
+site.description: Academic Rants
 ---
-##### (et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet)
+#### *(et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet)*
 
 *«Studerer ikke studentene lenger?»* spør statsviterne Torbjørn
 L. Knutsen og Bernt Hagtvet i Aftenposten fredag. I likhet med
@@ -35,7 +36,7 @@ fundamental mangel på respekt og forståelse for den gruppen av
 mennesker de selv har valgt å vie livet sitt til å være lærere,
 mentorer og forbilder for?*
 
-### Det «omvendte vinglasset» av studenter
+## Det «omvendte vinglasset» av studenter
 
 Blant klagemålene til Knutsen og Hagtvet finner vi slike ting som at
 *«vi i dag slipper gjennom folk som aldri ville fått eksamen for 20–30
@@ -81,7 +82,7 @@ absurde tilrettelegging på det groveste – *jukser gjør de sikkert
 også!* Men jeg har store problemer med tro at dette er
 gjennomsnittsstudenten.
 
-### Studenter er kreative, inspirerte og inspirerende
+## Studenter er kreative, inspirerte og inspirerende
 
 Studentene mine er kreative, hard arbeidende, inspirerte og
 inspirerende. De går løs på omfattende og vanskelige oppgaver og får
@@ -174,7 +175,7 @@ kunne og *må* lene seg på i dag og i fremtiden. De vil trenge å kunne
 abstrahere, å finne det som er relevant for dem i situasjonen, å se
 bort fra detaljene som er uviktige, og å filtrere vekk støyen.
 
-### Kulturkonflikt mellom generasjonene
+## Kulturkonflikt mellom generasjonene
 
 Jeg tenker at diskusjonen fundamentalt sett handler om kulturkonflikt
 og kulturforståelse. Som de fleste andre av oss vil nok Knutsen og
@@ -201,7 +202,7 @@ studentene med slik utilslørt forakt, når de bare har benyttet seg av
 mulighetene samfunnet vår tilbyr dem og oppfordrer dem til å benytte
 seg av.
 
-### Professorer *skal* være pedagoger 
+## Professorer *skal* være pedagoger 
 
 Professor Høgberg er ikke like ekstrem i sin kritikk somm Knutsen og
 Hagtvet, og har en del gode og godt motiverte poenger i sine
