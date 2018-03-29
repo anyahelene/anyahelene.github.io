@@ -15,25 +15,22 @@ body, header h1, h1,h2,h3,h4,h5,h6, .btn {
 
 }
 
-.sidebox {
+.rightbox {
     position: relative;
-    margin: 5px;
-    padding: 0px;
     font-size: smaller;
     width: 35%;
-}
-
-
-.rightbox {
     float: right;
-    margin-right: 0px;
-    padding-left: 5px;
+    margin: 5px 0px 5px 5px;
+    padding: 0px 0px 0px 5px;
     border-left: 1px dashed $hdColor;
 }
 
 .leftbox {
+    position: relative;
+    font-size: smaller;
+    width: 35%;
     float: left;
-    margin-left: 0px;
-    padding-right: 5px;
+    margin: 5px 5px 5px 0px;
+    padding: 0px 5px 0px 0px;
     border-right: 1px dashed $hdColor;
 }
