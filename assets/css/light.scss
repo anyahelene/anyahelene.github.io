@@ -8,6 +8,7 @@ $lnColor: #101030;
 
 @import "parameterized-hacker";
 @import url('https://fonts.googleapis.com/css?family=Gentium+Basic|Montserrat');
+@import "common";
 
 body {
     font-family: "Gentium Basic", sans-serif;
@@ -17,3 +18,4 @@ body {
 header h1, h1,h2,h3,h4,h5,h6, .btn {
     font-family: "Montserrat", sans-serif;
 }
+

@@ -68,7 +68,8 @@ kommer egentlig fra <a href="https://quoteinvestigator.com/2010/05/01/misbehavin
 avhandling skrevet i 1907</a>. Men i <em>Republikken</em> lar Platon
 Sokrates <a href="http://plato-dialogues.org/faq/faq003.htm">refse
 forfallet både blant ungdommen, dyrene og i samfunnet generelt</a>, og
-man finner liknende klagemål opp gjennom historien.  </p></div>
+man finner liknende klagemål opp gjennom historien.  </p>
+</div>
 
 Mitt inntrykk av dagens studenter og unge er at de er engasjerte,
 arbeidsomme og dyktige; ofte i større grad enn meg selv og mine
