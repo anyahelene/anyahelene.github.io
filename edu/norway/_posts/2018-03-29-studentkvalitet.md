@@ -252,8 +252,8 @@ udugelige tapere i Aftenposten.
 
 
 <bio>
-<h2>Om meg</h2>
 <img src="/assets/img/common/anya-headshot.jpg" alt="[Bilde av Anya]" />
+<h1>Om meg</h1>
 Jeg er førsteamanuensis i programmeringsspråk ved
 Institutt for informatikk, Universitetet i Bergen, og har hatt veldig
 mye gøy med å undervise førsteårsstudenter i programmering (siden
