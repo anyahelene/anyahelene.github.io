@@ -1,15 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: "en-UK" }}">
+<html lang="{{ page.lang | default: layout.lang | default: "en-UK" }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.style %}
-    {% capture style %}/assets/css/{{ page.style }}.css?v={% endcapture %}
-    <link rel="stylesheet" href="{{ style | append: site.github.build_revision | relative_url }}">
-    {% else %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% endif %}
+    {% capture style %}/assets/css/{{ page.style | default: layout.style | default: 'light' }}.css?v={% endcapture %}
 {% seo %}
   </head>
 
@@ -18,7 +13,7 @@
     <header>
       <div class="container">
         <h1><a href="{{ site.url }}">{{ page.site_title | default: site.title }}</a></h1>
-        <h2><a href="{{ site.url }}">{{ tagline }}</a></h2>
+        <h2><a href="{{ site.url }}">{{ page.tagline | default: layout.tagline | default: site.tagline }}</a></h2>
 
         <section id="downloads">
           {% if site.show_downloads %}

@@ -2,9 +2,8 @@
 layout: post-norw
 title:  "Studiekvalitet og studentkvalitet"
 date:   2018-03-29 21:56:01 +0200
-style: light
-categories: education norwegian
-lang: nb-NO
+category: norsk
+tags: [ education, norwegian ]
 site_tagline: Academic Rants
 ---
 
