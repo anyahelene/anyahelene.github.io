@@ -7,7 +7,7 @@ tags: [ education, norwegian ]
 site_tagline: Academic Rants
 ---
 
-#### *(et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet)*
+###### Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet
 
 *«Studerer ikke studentene lenger?»* spør statsviterne Torbjørn
 L. Knutsen og Bernt Hagtvet
