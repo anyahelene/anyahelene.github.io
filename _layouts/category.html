@@ -1,53 +1,10 @@
 ---
 layout: default
 ---
-{{ page.category }}
-{{ site.categories }}
-
+<h1>{{ page.title }}</h1>
 {% for post in site.categories[page.category] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
-{% endfor %}
-    -3
-        {% for post in site.categories['/edu/norway'] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
-{% endfor %}
-    -2
-        {% for post in site.categories['edu/norway'] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
-{% endfor %}
-    -1 
-        {% for post in site.categories['edu norway'] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
-{% endfor %}
-    0
-        {% for post in site.categories['edunorway'] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
-{% endfor %}
-a
-    {% for post in site.categories['edu'] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
-{% endfor %}
-b
-    {% for post in site.categories['norway'] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
-    {% endfor %}
-    c
-    {% for post in site.categories['edu', 'norway'] %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
+<li>
+  <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> – {{ page.date | date: "%Y-%m-%d" }}
+  {{ post.excerpt }}
+</li>
 {% endfor %}

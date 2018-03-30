@@ -111,7 +111,7 @@ header h2 {
 
 section img {
     max-width: 100%;
-    border: 1px dashed $hdColor;
+    border: 1px solid $hdColor;
 }
 
 bio {
@@ -123,7 +123,7 @@ bio {
 
 bio img {
     max-width: 20%;
-    border: 1px dashed $hdColor;
+    border: 1px solid $hdColor;
     float: left;
 }
 

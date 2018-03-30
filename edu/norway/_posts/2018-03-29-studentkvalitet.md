@@ -252,18 +252,19 @@ udugelige tapere i Aftenposten.
 
 
 <bio>
-<img src="/img/common/anya-headshot.jpg" alt="[Bilde av Anya]" />
+<img src="/assets/img/common/anya-headshot.jpg" alt="[Bilde av Anya]" />
 Anya Helene Bagge er førsteamanuensis i programmeringsspråk ved
 Institutt for informatikk, Universitetet i Bergen. Hun har hatt veldig
 mye gøy med å undervise førsteårsstudenter i programmering (siden
 2009), og har veiledet en mengde studentprosjekter der studentene får
 utfolde seg fritt. Hun har også vunnet informatikk-studentenes
 foreleserpris (2015) og
-[Realistutvalgets undervisningspris (2017)](http://www.uib.no/matnat/111276/anya-helene-bagge-er-%C3%A5rets-underviser)</bio>,
+[Realistutvalgets undervisningspris (2017)](http://www.uib.no/matnat/111276/anya-helene-bagge-er-%C3%A5rets-underviser),
 og veileder / har veiledet flere masterprosjekter med
 pedagogikk/didaktikk-relaterte problemstillinger. Til daglig forsker
 hun på programvarespråk, programutvikling og programmeringsverktøy, og
 er leder for det NFR-finansierte prosjektet
 <em>[Co-Evolution of Software Language and Language Processors](http://www.uib.no/en/rg/pt/97531/co-evolution-software-languages-and-language-processors)</em>
-(IKTPLUSS / Young Research Talents).</bio>
+(IKTPLUSS / Young Research Talents).
+</bio>
 
