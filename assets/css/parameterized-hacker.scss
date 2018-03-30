@@ -121,11 +121,13 @@ bio {
     border-bottom: 1px dashed $hdColor;
     display: block;
     margin: 20px 0 20px 0;
+    padding: 8px 0 8px 0;
 }
 
 bio img {
     max-width: 15%;
     border: 1px solid $hdColor;
+    margin: 0 8px 8px 0;
     float: left;
 }
 

@@ -252,19 +252,20 @@ udugelige tapere i Aftenposten.
 
 
 <bio>
+<h2>Om meg</h2>
 <img src="/assets/img/common/anya-headshot.jpg" alt="[Bilde av Anya]" />
-Anya Helene Bagge er førsteamanuensis i programmeringsspråk ved
-Institutt for informatikk, Universitetet i Bergen. Hun har hatt veldig
+Jeg er førsteamanuensis i programmeringsspråk ved
+Institutt for informatikk, Universitetet i Bergen, og har hatt veldig
 mye gøy med å undervise førsteårsstudenter i programmering (siden
-2009), og har veiledet en mengde studentprosjekter der studentene får
-utfolde seg fritt. Hun har også vunnet informatikk-studentenes
+2009). Jeg har også veiledet en mengde studentprosjekter der studentene får
+utfolde seg fritt, og jeg har vunnet informatikk-studentenes
 foreleserpris (2015) og
-[Realistutvalgets undervisningspris (2017)](http://www.uib.no/matnat/111276/anya-helene-bagge-er-%C3%A5rets-underviser),
-og veileder / har veiledet flere masterprosjekter med
+<a href="http://www.uib.no/matnat/111276/anya-helene-bagge-er-%C3%A5rets-underviser">Realistutvalgets undervisningspris (2017)</a>.
+Flere av mine studenter er også interesserte i pedagogikk, og jeg veileder / har veiledet flere masterprosjekter med
 pedagogikk/didaktikk-relaterte problemstillinger. Til daglig forsker
-hun på programvarespråk, programutvikling og programmeringsverktøy, og
+jeg på programvarespråk, programutvikling og programmeringsverktøy, og
 er leder for det NFR-finansierte prosjektet
-<em>[Co-Evolution of Software Language and Language Processors](http://www.uib.no/en/rg/pt/97531/co-evolution-software-languages-and-language-processors)</em>
+<em><a href="http://www.uib.no/en/rg/pt/97531/co-evolution-software-languages-and-language-processors">Co-Evolution of Software Language and Language Processors</a></em>
 (IKTPLUSS / Young Research Talents).
 </bio>
 
