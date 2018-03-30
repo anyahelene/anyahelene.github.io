@@ -2,7 +2,7 @@ theme: jekyll-theme-hacker
 sass:
     sass_dir: assets/css/
 
-permalink: /blog/:year/:month/:day/:slug/
+permalink: /:categories/:year/:month/:day/:slug/
 timezone: Europe/Amsterdam
 author: Anya Helene Bagge
 title: Anya’s Stuff
