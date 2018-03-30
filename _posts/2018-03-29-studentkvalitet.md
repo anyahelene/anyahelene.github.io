@@ -4,7 +4,7 @@ title:  "Studiekvalitet og studentkvalitet"
 date:   2018-03-29 21:56:01 +0200
 category: norsk
 tags: [ education, norwegian ]
-site_tagline: Academic Rants
+excerpt: "<p>Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet kronikk «Studerer ikke studentene lenger?»</p>"
 ---
 
 ###### Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet
