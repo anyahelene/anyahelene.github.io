@@ -61,7 +61,7 @@ mangel på moral. De vil likevel ha oss til å tro at *denne gangen* er
 det annerledes. En slik utrolig påstand bør helst følges opp med svært
 troverdige argumenter.
 
-<div class="rightbox">
+<figure class="rightbox">
 <img src="{{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }}" alt="Skolen i Athen, av Raphael" /> 
 
 <p> Folk har klaget over de unges forfall til alle tider; det kjente
@@ -73,7 +73,7 @@ avhandling skrevet i 1907</a>. Men i <em>Republikken</em> lar Platon
 Sokrates <a href="http://plato-dialogues.org/faq/faq003.htm">refse
 forfallet både blant ungdommen, dyrene og i samfunnet generelt</a>, og
 man finner liknende klagemål opp gjennom historien.  </p>
-</div>
+</figure>
 
 Mitt inntrykk av dagens studenter og unge er at de er engasjerte,
 arbeidsomme og dyktige; ofte i større grad enn meg selv og mine
@@ -248,6 +248,20 @@ tilrettelegging fra *studentenes* side kan komme godt med den dagen
 man skal prøve å gjenoppbygge tilliten etter å ha omtalt dem som
 udugelige tapere i Aftenposten.
 
----
 
-*Anya Helene Bagge, førsteamanuensis i programmeringsspråk ved Universitetet i Bergen.*
+<bio>
+<img src="/img/common/anya-headshot.jpg" alt="[Bilde av Anya]" />
+Anya Helene Bagge er førsteamanuensis i programmeringsspråk ved
+Institutt for informatikk, Universitetet i Bergen. Hun har hatt veldig
+mye gøy med å undervise førsteårsstudenter i programmering (siden
+2009), og har veiledet en mengde studentprosjekter der studentene får
+utfolde seg fritt. Hun har også vunnet informatikk-studentenes
+foreleserpris (2015) og
+[Realistutvalgets undervisningspris (2017)](http://www.uib.no/matnat/111276/anya-helene-bagge-er-%C3%A5rets-underviser)</bio>,
+og veileder / har veiledet flere masterprosjekter med
+pedagogikk/didaktikk-relaterte problemstillinger. Til daglig forsker
+hun på programvarespråk, programutvikling og programmeringsverktøy, og
+er leder for det NFR-finansierte prosjektet
+<em>[Co-Evolution of Software Language and Language Processors](http://www.uib.no/en/rg/pt/97531/co-evolution-software-languages-and-language-processors)</em>
+(IKTPLUSS / Young Research Talents).</bio>
+

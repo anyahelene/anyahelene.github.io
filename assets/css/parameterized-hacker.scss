@@ -108,8 +108,23 @@ header h2 {
   width: 100%;
   -webkit-font-smoothing: antialiased;
 }
+
 section img {
   max-width: 100%
+  border: 1px dashed $hdColor;
+}
+
+bio {
+    font-size: smaller;
+    font-style: italic;
+    border-top: 1px dashed $hdColor;
+    border-bottom: 1px dashed $hdColor;
+}
+
+bio img {
+    max-width: 20%;
+    border: 1px dashed $hdColor;
+    float: left;
 }
 
 h1, h2, h3, h4, h5, h6 {
