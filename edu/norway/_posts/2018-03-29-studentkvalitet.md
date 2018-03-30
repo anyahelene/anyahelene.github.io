@@ -3,7 +3,7 @@ layout: post-norw
 title:  "Studiekvalitet og studentkvalitet"
 date:   2018-03-29 21:56:01 +0200
 tags: [ education, norway ]
-excerpt: "<p>Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet kronikk «Studerer ikke studentene lenger?»</p>"
+excerpt: "<p>Studentene er ikke som de en gang var – naturligvis! Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvets kronikk «Studerer ikke studentene lenger?»</p>"
 ---
 
 ###### Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet
