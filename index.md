@@ -1,5 +1,6 @@
 ---
 layout: default
+tagline: <em><a href="/">/</a></em>
 ---
 <ul>
   {% for post in site.posts %}
