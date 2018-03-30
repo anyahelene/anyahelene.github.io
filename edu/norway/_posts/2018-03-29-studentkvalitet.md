@@ -8,8 +8,6 @@ excerpt: "<p>Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Be
 
 ###### Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet
 
-{{ page.categories }}
-
 *«Studerer ikke studentene lenger?»* spør statsviterne Torbjørn
 L. Knutsen og Bernt Hagtvet
 [i Aftenposten 23. mars](https://www.aftenposten.no/meninger/kronikk/i/oR84LW/Studerer-ikke-studentene-lenger--Torbjorn-L-Knutsen-og-Bernt-Hagtvet). I
