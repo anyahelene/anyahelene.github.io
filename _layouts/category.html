@@ -8,6 +8,30 @@ layout: default
       {{ post.title }}
     </a>
 {% endfor %}
+    -3
+        {% for post in site.categories['/edu/norway'] %}
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+{% endfor %}
+    -2
+        {% for post in site.categories['edu/norway'] %}
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+{% endfor %}
+    -1 
+        {% for post in site.categories['edu norway'] %}
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+{% endfor %}
+    0
+        {% for post in site.categories['edunorway'] %}
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+{% endfor %}
 a
     {% for post in site.categories['edu'] %}
     <a href="{{ post.url | absolute_url }}">
