@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% capture style %}/assets/css/{{ page.style | default: layout.style | default: 'light' }}.css?v={% endcapture %}
-{% seo %}
+    <link rel="stylesheet" href="{{ style | append: site.github.build_revision | relative_url }}">
+    {% seo %}
+    
   </head>
 
   <body>
