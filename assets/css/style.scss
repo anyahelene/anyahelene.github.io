@@ -16,7 +16,6 @@ body {
 
 header h1, h1,h2,h3,h4,h5,h6, .btn {
     font-family: "VT323", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-    font-size: larger !important;
     line-height: 1.2;
     font-weight: normal;
 }
@@ -26,6 +25,7 @@ code {
     line-height: 1.2;
     font-weight: normal;
     color: $hdColor;
+    font-size: 17px;
 }
 
 li {
