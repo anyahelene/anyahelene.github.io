@@ -119,10 +119,12 @@ bio {
     font-style: italic;
     border-top: 1px dashed $hdColor;
     border-bottom: 1px dashed $hdColor;
+    display: block;
+    margin: 20px 0 20px 0;
 }
 
 bio img {
-    max-width: 20%;
+    max-width: 15%;
     border: 1px solid $hdColor;
     float: left;
 }
