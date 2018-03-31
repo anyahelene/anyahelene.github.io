@@ -266,7 +266,7 @@ enkel oppgave, og i likhet med kritisk tenkning og vitenskapelig
 skriving må det trenes opp. Og som vi har sett over, så er opptrening
 av ferdigheter arbeidskrevende, og det trenger ikke være slik at
 pedagogiske ferdigheter er noe professorer må skaffe seg selv. Men da
-er det gjerne flere en bare studentene man må slutte å «dulle med»,
+er det gjerne flere enn bare studentene man må slutte å «dulle med»,
 som Knutsen og Hagtvet så fint uttrykker det.
 
 <figure class="rightbox">
