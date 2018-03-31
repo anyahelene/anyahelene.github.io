@@ -1,0 +1,8 @@
+---
+---
+{% for post in include.posts %}
+<li>
+  <a href="{{ post.url | absolute_url }}">{{ post.title }}</a> – {{ post.date | date: "%Y-%m-%d" }}
+  {{ post.excerpt }}
+</li>
+{% endfor %}
