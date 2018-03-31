@@ -65,7 +65,7 @@ li {
 */
 
 header {
-  background: call($bgTransform, $bgColor, 10%);
+  background: call(get-function($bgTransform), $bgColor, 10%);
   width: 100%; 
   border-bottom: $borderthickness dashed $hdColor;
   padding: 20px 0;
@@ -99,7 +99,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: call($bgTransform, $hdColor, 10%);
+  color: call(get-function($bgTransform), $hdColor, 10%);
 }
 
 #downloads .btn {
@@ -134,7 +134,7 @@ bio {
 #main_content bio h1 {
   font-size: 16px;
   text-transform: uppercase;
-  color: call($fgTransform, $hdColor, 10%);
+  color: call(get-function($fgTransform), $hdColor, 10%);
   margin: 0 0 5px 0;
 }
 
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6 {
 #main_content h6 {
   font-size: 16px;
   text-transform: uppercase;
-  color: call($fgTransform, $hdColor, 10%);
+  color: call(get-function($fgTransform), $hdColor, 10%);
   margin: 0 0 5px 0;
 }
 
@@ -199,9 +199,9 @@ ul li {
 }
 
 blockquote {
-  color: call($bgTransform, $fgColor, 10%);
+  color: call(get-function($bgTransform), $fgColor, 10%);
   padding-left: 10px;
-  border-left: $borderthickness dotted call($fgTransform, $hdColor, 10%);
+  border-left: $borderthickness dotted call(get-function($fgTransform), $hdColor, 10%);
 }
 
 pre {

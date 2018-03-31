@@ -1,0 +1,14 @@
+---
+layout: default
+category: retro
+title: Retrocomputing – it's the new future!
+---
+<h1>{{ page.title }}</h1>
+<h2>The Enterprise 64/128</h2>
+{% assign list = site.categories['enterprise'] %}
+{% include post-list.html posts=list %}
+
+<h2>The Sinclair ZX81</h2>
+{% assign list = site.categories['zx'] %}
+{% include post-list.html posts=list %}
+
