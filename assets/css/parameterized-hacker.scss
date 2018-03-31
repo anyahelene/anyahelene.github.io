@@ -3,7 +3,8 @@ $bgTransform: if($light, 'lighten', 'darken');
 $fgTransform: if($light, 'darken', 'lighten');
 $bgExtreme: if($light, #fff, #000);
 $fgExtreme: if($light, #000, #fff);
-
+$borderthickness: if($borderthickness, $borderthickness, 1px);
+	
 @import "rouge-base16-dark";
 
 body {
@@ -66,7 +67,7 @@ li {
 header {
   background: call($bgTransform, $bgColor, 10%);
   width: 100%; 
-  border-bottom: 1px dashed $hdColor;
+  border-bottom: $borderthickness dashed $hdColor;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -117,14 +118,14 @@ header h2 {
 
 section img {
     max-width: 100%;
-    border: 1px solid $hdColor;
+    border: $borderthickness solid $hdColor;
 }
 
 bio {
     font-size: smaller;
     font-style: italic;
-    border-top: 1px dashed $hdColor;
-    border-bottom: 1px dashed $hdColor;
+    border-top: $borderthickness dashed $hdColor;
+    border-bottom: $borderthickness dashed $hdColor;
     display: block;
     margin: 20px 0 20px 0;
     padding: 8px 0 8px 0;
@@ -139,7 +140,7 @@ bio {
 
 bio img {
     max-width: 15%;
-    border: 1px solid $hdColor;
+    border: $borderthickness solid $hdColor;
     margin: 0 8px 8px 0;
     float: left;
 }
@@ -200,12 +201,12 @@ ul li {
 blockquote {
   color: call($bgTransform, $fgColor, 10%);
   padding-left: 10px;
-  border-left: 1px dotted call($fgTransform, $hdColor, 10%);
+  border-left: $borderthickness dotted call($fgTransform, $hdColor, 10%);
 }
 
 pre {
   background: rgba(0, 0, 0, 0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
+  border: $borderthickness solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
   color: #b5e853;
@@ -222,7 +223,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed $hdColor;
+  border-bottom: $borderthickness dashed $hdColor;
   padding: 5px 10px;
 }
 
@@ -233,7 +234,7 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed $hdColor;
+  border-bottom: $borderthickness dashed $hdColor;
   color: $hdColor;
 }
 
@@ -265,7 +266,7 @@ hr {
   display: inline-block;
   width: 16px;
   height: 16px;
-  margin: 1px 8px 0 0;
+  margin: $borderthickness 8px 0 0;
   float: left;
 }
 
