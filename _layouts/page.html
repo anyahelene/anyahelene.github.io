@@ -8,3 +8,7 @@ layout: default
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
