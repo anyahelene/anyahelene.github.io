@@ -136,6 +136,12 @@ tastetrykk unna. Om dette er korrekt, er det faktisk et tegn på
 rett og slett fordi studentene tilpasser seg og prøver å gjøre det
 beste ut av samfunnet de lever i?
 
+<figure class="leftbox">
+<img src="{{ "/assets/img/studentkvalitet/Laurentius_de_Voltolina_001.jpg" | absolute_url }}" alt="Skolen i Bologna, av Laurentius a Voltolina" /> 
+
+<p>Tidlig i universitetshistorien kunne man gjerne ha <em>forelesninger</em> i ordets rette forstand – med en <em>lektor</em> som leser høyt fra kilden. God gammeldags tavleteknologi har revolusjonert forelesningen, og blir som regel bedre mottatt enn høytlesning fra powerpoint. En del ting har selvfølgelig ikke endret seg siden middelalderen: det er alltids fare for at noen sitter på bakerste rad og sover.</p>
+</figure>
+
 Det er klart at en del kunnskap må internaliseres eller
 *«innforlives»*, om at man skal kunne resonnere, reflektere og
 diskutere. Slike ferdigheter må også trenes opp; jeg antar at de
@@ -156,7 +162,10 @@ et online fagmiljø der; men å implisere at digitale verktøy generelt
 forårsaker utdanningsmessig forfall vitner om – rett og slett –
 manglende vilje til å *«tilegne seg kunnskap»* og manglende evne til
 *«selvstendig og moden analyse»* av sin egen og studentenes rolle i
-utdanning og samfunn.
+utdanning og samfunn. Professorenes klage-kronikk ville faktisk passet
+overraskende bra som et innlegg på det sosiale internettet, der såkalt
+[*trolling*](https://en.wikipedia.org/wiki/Internet_troll) har
+tradisjoner som går flere tiår tilbake.
 
 Internett tilbyr betraktelig mye mer informasjon enn
 Universitetsbibliotekene gjorde i tidligere tider – og selv om mye
@@ -166,7 +175,19 @@ de aller fleste fagfelt etterhvert vokse eller ha vokst seg så stor at
 intet menneske vil ha plass til den i hodet sitt, eller tid nok i
 livet sitt til å lese og tilegne seg alt. Studentene vet nok dette
 utmerket godt, det er gjerne nettopp derfor de *«ser liten vits i å
-tilegne seg kunnskap»*, slik Knutsen og Hagtvet uttrykker det.
+tilegne seg kunnskap»*, slik Knutsen og Hagtvet uttrykker det. Men det
+betyr ikke at de ikke trenger å lære å finne frem til den verdifulle
+fagkunnskapen på internett og å skille den fra all støyen.
+
+Dette er ikke en så veldig annerledes situasjon enn andre revolusjoner
+og paradigmeskifter, og det er klart det kan være opprørende for
+(universitets)samfunnet, og de som kanskje allerede har vært gjennom
+både en og to omstillinger allerede. For eksempel ville dagens bonde
+med sin traktorplog og datastyrt vanning kanskje vært en skuffelse for
+sine forfedre som slet hardt med å bygge terrasser og vanningskanaler;
+men man kan fø langt flere med ard og trekkdyr enn med gravestokk, for
+ikke snakke om hva man oppnår med motorisering og automatisering
+(ihvertfall ifølge Wikipedia!).
 
 Det betyr ikke at studentene nødvendigvis alltid har rett, eller at de
 ikke skal lære fakta og «kjedelig» kunnskap. Som fagpersoner er det
@@ -186,13 +207,29 @@ Hagtvet lære opp og forme ungdommen i sitt bilde. Her får man
 terminologien med «gode» og «dårlige» studenter; de gode har den rette
 bakgrunnen, de er mottakelige for å læres opp slik forrige generasjon
 var det, og de vil skikke seg vel uten at man trenger å legge for mye
-arbeid i undervisningen. Så gjelder det bare å få filtrert vekk de
-dårlige studentene så fort som mulig. Kronikken til Knutsen og Hagtvet
+arbeid i undervisningen. *Så gjelder det bare å få filtrert vekk de
+dårlige studentene så fort som mulig.* Kronikken til Knutsen og Hagtvet
 ser ut til å implisere slik filtrering, og dette er ikke en uvanlig
 tanke i høyere utdanning – jeg har selv hørt det bli diskutert
 åpent. Er vi virkelig så late, og så dårlige pedagoger at vi ikke er
 villige til å møte studentene slik de er, og hjelpe med å forme dem
 til det de trenger å bli?
+
+Vi ser dette også i diskusjonen rundt rekruttering. Ved mitt institutt
+har man vært opptatt av å rekruttere flere «gode studenter». Det er
+antydning til jubel over skjerpede opptakskrav (man må nå ha
+fordypning fra videregående i både realfagsmatte og minst ett realfag)
+– endelig skal vi få gode studenter som forstår seg på matten vi
+bruker til daglig! Skyggesiden er at dette føre til færre søkere og
+lavere poengkrav – tenk om vi ender opp med dårlige studenter likevel?
+Og hva om vi tenker at tung matte og realfag er viktig, ut fra at det
+var viktig for pensumet vi måtte gjennom som studenter, mens andre
+ferdigheter kanskje er like viktige, slik som samarbeid,
+kommunikasjon, kreativitet og sosial innsikt? Mitt eget fagfelt har
+f.eks. vel så mye til felles med språk og lingvistikk som det har med
+matematikk, og når jeg underviser i programutvikling så er det gjerne
+menneskelige begrensninger som er den store utfordringen nå – det
+holder ikke å bare ha innsikt i hvordan datamaskinen tenker.
 
 Den norske modellen er bygget på at alle skal være med, og ha like
 muligheter Det er godt mulig at ikke alle trenger eller vil ha glede
