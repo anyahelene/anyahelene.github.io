@@ -1,8 +1,7 @@
 ---
-style: zx81
+layout: page-retro
+title: Using the ZX81 for Conference Presentations
 ---
-
-# Using the ZX81 for Conference Presentations
 
 The organizers of the wonderful [NOOL 2017 workshop](https://2017.splashcon.org/track/nool-2017) ("The -2th Workshop on New Object-Oriented Languages (NOOL) 2017") had the incredible foresight (or, perhaps, hindsight...) to publish a [ZX81 Call for Papers](http://dynamicaspects.org/nool17-cfp.pdf), which immediately made me think that:
 
