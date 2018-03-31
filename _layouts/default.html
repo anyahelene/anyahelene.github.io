@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% capture style %}/assets/css/{{ page.style | default: layout.style | default: 'light' }}.css?v={% endcapture %}
     <link rel="stylesheet" href="{{ style | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/svg+xml" href="/assets/img/common/favicon.svg">
+    <link rel="icon" type="image/svg+xml" href="/assets/img/common/favicon.svg" sizes="any">
+    <link rel="icon" type="image/png" href="/assets/img/common/favicon-32x32.png" sizes="32x32">
     {% seo %}
     
   </head>
