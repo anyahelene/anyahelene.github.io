@@ -11,7 +11,7 @@ excerpt: Studentene er ikke som de en gang var – heldigvis! Et svar til Profes
 *«Studerer ikke studentene lenger?»* spør statsviterne
 [Torbjørn L. Knutsen](https://www.ntnu.no/ansatte/torbk) og
 [Bernt Hagtvet](https://www.sv.uio.no/isv/personer/vit/hagtvet/)
-[i Aftenposten 23. mars](https://www.aftenposten.no/meninger/kronikk/i/oR84LW/Studerer-ikke-studentene-lenger--Torbjorn-L-Knutsen-og-Bernt-Hagtvet). I
+i [Aftenposten 23. mars](https://www.aftenposten.no/meninger/kronikk/i/oR84LW/Studerer-ikke-studentene-lenger--Torbjorn-L-Knutsen-og-Bernt-Hagtvet). I
 [likhet med](http://universitas.no/nyheter/63907/jusprofessor-skjelte-ut-studentene-sine-i)
 jusprofessor [Benedikte M. Høgberg](https://www.jus.uio.no/ior/personer/vit/benedmh/)
 har de lagt merke til en urovekkende trend: studentene er bortskjemte
