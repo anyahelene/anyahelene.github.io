@@ -3,7 +3,7 @@ $bgTransform: if($light, 'lighten', 'darken');
 $fgTransform: if($light, 'darken', 'lighten');
 $bgExtreme: if($light, #fff, #000);
 $fgExtreme: if($light, #000, #fff);
-$borderthickness: if($borderthickness, $borderthickness, 1px);
+$borderthickness: 1px !default;
 	
 @import "rouge-base16-dark";
 
