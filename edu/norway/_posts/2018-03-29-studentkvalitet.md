@@ -3,16 +3,17 @@ layout: post-norw
 title:  "Studiekvalitet og studentkvalitet"
 date:   2018-03-29 21:56:01 +0200
 tags: [ education, norway ]
-excerpt: "<p>Studentene er ikke som de en gang var – heldigvis! Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvets kronikk «Studerer ikke studentene lenger?»</p>"
+excerpt: Studentene er ikke som de en gang var – heldigvis! Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvets kronikk «Studerer ikke studentene lenger?».
 ---
 
 ###### Et svar til Professor Torbjørn L. Knutsen og Professor Emeritus Bernt Hagtvet
 
-*«Studerer ikke studentene lenger?»* spør statsviterne Torbjørn
-L. Knutsen og Bernt Hagtvet
+*«Studerer ikke studentene lenger?»* spør statsviterne
+[Torbjørn L. Knutsen](https://www.ntnu.no/ansatte/torbk) og
+[Bernt Hagtvet](https://www.sv.uio.no/isv/personer/vit/hagtvet/)
 [i Aftenposten 23. mars](https://www.aftenposten.no/meninger/kronikk/i/oR84LW/Studerer-ikke-studentene-lenger--Torbjorn-L-Knutsen-og-Bernt-Hagtvet). I
-likhet med
-[jusprofessor Benedikte M. Høgberg](http://universitas.no/nyheter/63907/jusprofessor-skjelte-ut-studentene-sine-i)
+[likhet med](http://universitas.no/nyheter/63907/jusprofessor-skjelte-ut-studentene-sine-i)
+jusprofessor [Benedikte M. Høgberg](https://www.jus.uio.no/ior/personer/vit/benedmh/)
 har de lagt merke til en urovekkende trend: studentene er bortskjemte
 og passive, de leser og skriver ikke lengre, de tar ikke notater – de
 forventer rett og slett å få ting servert på et sølvfat, om man skal
@@ -62,7 +63,7 @@ det annerledes. En slik utrolig påstand bør helst følges opp med svært
 troverdige argumenter.
 
 <figure class="rightbox">
-<a href="https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"><img src="{{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }}" alt="Skolen i Athen" title="Skolen i Athen, av Raphael" /></a>
+<a href="https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg"><img src="{{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }}" alt="Skolen i Athen" title="Skolen i Athen av Raphael" /></a>
 
 <p> Folk har klaget over de unges forfall til alle tider; det kjente
 sitatet <em>«The children now love luxury. They have bad manners,
@@ -73,6 +74,7 @@ avhandling skrevet i 1907</a>. Men i <em>Republikken</em> lar Platon
 Sokrates <a href="http://plato-dialogues.org/faq/faq003.htm">refse
 forfallet både blant ungdommen, dyrene og i samfunnet generelt</a>, og
 man finner liknende klagemål opp gjennom historien.  </p>
+<p class="credit">(Scuola di Atene, Raphael, 1511)</p>
 </figure>
 
 Mitt inntrykk av dagens studenter og unge er at de er engasjerte,
@@ -113,14 +115,15 @@ deltidsjobber. Jeg kjenner dem ikke rett og slett ikke igjen i Knutsen
 og Hagtvets beskrivelse.
 
 I følge Knutsen og Hagtvet har studentene har *«svak intellektuell
-nysgjerrighet»*, de skriftlige ferdighetene er *«mildt sagt skuffende»
-*og* «resonnementene henger ofte ikke på greip»*. Om dette er rett, er
-det studentenes feil? Får de trening i resonnering og skriving? Eller
-har professorene lært dette på gymnaset eller i hjemmet, og forventer
-at dagens unge skal ha samme bakgrunn? Om studentene er kunnskapsløse,
-hvilke grep taes i undervisningen for å bøte på dette? Og, er dette
-kunnskap som studentene oppfatter som relevant, eller er det slik at
-de selv heller legger vekt på andre ferdigheter og kunnskaper?
+nysgjerrighet»*, de skriftlige ferdighetene er *«mildt sagt
+skuffende»* og *«resonnementene henger ofte ikke på greip»*. Om dette
+er rett, er det studentenes feil? Får de trening i resonnering og
+skriving? Eller har professorene lært dette på gymnaset eller i
+hjemmet, og forventer at dagens unge skal ha samme bakgrunn? Om
+studentene er kunnskapsløse, hvilke grep taes i undervisningen for å
+bøte på dette? Og, er dette kunnskap som studentene oppfatter som
+relevant, eller er det slik at de selv heller legger vekt på andre
+ferdigheter og kunnskaper?
 
 ## Digitale Verktøy – en kilde til forfall?
 
@@ -140,6 +143,7 @@ beste ut av samfunnet de lever i?
 <a href="https://commons.wikimedia.org/wiki/File:Laurentius_de_Voltolina_001.jpg"><img src="{{ "/assets/img/studentkvalitet/Laurentius_de_Voltolina_001.jpg" | absolute_url }}" alt="Forelesning på 1300-tallet" title="Skolen i Bologna, av Laurentius a Voltolina (andre halvdel av 1300-tallet)" /></a>
 
 <p>Tidlig i universitetshistorien kunne man gjerne ha <em>forelesninger</em> i ordets rette forstand – med en <em>lektor</em> som leser høyt fra kilden. God gammeldags tavleteknologi har revolusjonert forelesningen, og blir som regel bedre mottatt enn høytlesning fra powerpoint. En del ting har selvfølgelig ikke endret seg siden middelalderen: det er alltids fare for at noen sitter på bakerste rad og sover.</p>
+<p class="credit">(“Henricus de Alemannia con i suoi studenti”, Laurentius a Voltolina)</p>
 </figure>
 
 Det er klart at en del kunnskap må internaliseres eller
@@ -208,69 +212,83 @@ terminologien med «gode» og «dårlige» studenter; de gode har den rette
 bakgrunnen, de er mottakelige for å læres opp slik forrige generasjon
 var det, og de vil skikke seg vel uten at man trenger å legge for mye
 arbeid i undervisningen. *Så gjelder det bare å få filtrert vekk de
-dårlige studentene så fort som mulig.* Kronikken til Knutsen og Hagtvet
-ser ut til å implisere slik filtrering, og dette er ikke en uvanlig
-tanke i høyere utdanning – jeg har selv hørt det bli diskutert
-åpent. Er vi virkelig så late, og så dårlige pedagoger at vi ikke er
-villige til å møte studentene slik de er, og hjelpe med å forme dem
-til det de trenger å bli?
+dårlige studentene så fort som mulig.* Kronikken til Knutsen og
+Hagtvet ser ut til å implisere slik filtrering, og dette er ikke en
+uvanlig tanke i høyere utdanning – jeg har selv hørt det bli diskutert
+åpent, både i Norge og i utlandet. Er vi virkelig så late, og så
+dårlige pedagoger at vi ikke er villige til å møte studentene slik de
+er, og hjelpe med å forme dem til det de trenger å bli?
 
 Vi ser dette også i diskusjonen rundt rekruttering. Ved mitt institutt
 har man vært opptatt av å rekruttere flere «gode studenter». Det er
-antydning til jubel over skjerpede opptakskrav (man må nå ha
-fordypning fra videregående i både realfagsmatte og minst ett realfag)
-– endelig skal vi få gode studenter som forstår seg på matten vi
-bruker til daglig! Skyggesiden er at dette føre til færre søkere og
-lavere poengkrav – tenk om vi ender opp med dårlige studenter likevel?
-Og hva om vi tenker at tung matte og realfag er viktig, ut fra at det
-var viktig for pensumet vi måtte gjennom som studenter, mens andre
-ferdigheter kanskje er like viktige, slik som samarbeid,
-kommunikasjon, kreativitet og sosial innsikt? Mitt eget fagfelt har
-f.eks. vel så mye til felles med språk og lingvistikk som det har med
-matematikk, og når jeg underviser i programutvikling så er det gjerne
-menneskelige begrensninger som er den store utfordringen nå – det
-holder ikke å bare ha innsikt i hvordan datamaskinen tenker.
+antydning til [jubel over hele landet](https://titan.uio.no/node/1398)
+når opptakskravene nå skjerpes og man må nå ha fordypning fra
+videregående i både realfagsmatte og minst ett realfag. *Endelig skal
+vi få «gode» studenter som forstår seg på matten vi bruker til daglig!*
+Skyggesiden er at dette føre til færre søkere og lavere poengkrav –
+*tenk om vi ender opp med dårlige studenter likevel?*
+
+Men hva om vi tenker at tung matte og realfag er viktig, f.eks. for
+informatikk, ut fra at det var viktig for pensumet vi selv måtte
+gjennom som studenter? Mens andre ferdigheter kanskje er like viktige,
+slik som samarbeid, kommunikasjon, kreativitet og sosial innsikt? Mitt
+eget fagfelt har f.eks. vel så mye til felles med språk og lingvistikk
+som det har med matematikk, og når jeg underviser i programutvikling
+så er det gjerne menneskelige begrensninger som er den store
+utfordringen nå – det holder ikke å bare ha teknisk innsikt i hvordan
+datamaskinen tenker.
 
 Den norske modellen er bygget på at alle skal være med, og ha like
-muligheter Det er godt mulig at ikke alle trenger eller vil ha glede
-av en universitetsgrad; og det er også lov å diskutere om den norske
-modellen kanskje er feil, og at høyere utdanning skal være forbeholdt
-de flinkeste, eller de rikeste, eller de med rett sosial bakgrunn. Men
-om det er slike endringer de to statsviterne vil oppnå, bør de kanskje
-heller skrive kronikk om det – det er mildt sagt utidig å møte
-studentene med slik utilslørt forakt, når de bare har benyttet seg av
-mulighetene samfunnet vår tilbyr dem og oppfordrer dem til å benytte
-seg av.
+muligheter. Det er fullt lov å mene at ikke alle trenger eller vil ha
+glede av en universitetsgrad; og det er også lov å diskutere om den
+norske modellen kanskje er feil, og at høyere utdanning skal være
+forbeholdt de flinkeste, eller de rikeste, eller de med rett sosial
+bakgrunn. Men om det er slike endringer de to statsviterne vil oppnå,
+bør de kanskje heller skrive kronikk om dét – det er mildt sagt utidig
+å møte studentene med slik utilslørt forakt som de gjør, når de bare
+har benyttet seg av mulighetene samfunnet vår tilbyr dem og oppfordrer
+dem til å benytte seg av.
 
 ## Professorer *skal* være pedagoger 
 
-Professor Høgberg er ikke like ekstrem i sin kritikk somm Knutsen og
-Hagtvet, og har en del gode og godt motiverte poenger i sine
-uttalelser.  Jeg vil tro det er bred enighet, også blant studenter, om
-at hetsing og mobbing er uakseptabelt. Men gullkornet om at
-«professorer skal ikke ha pedagogiske evner» er både uriktig og vitner
-om feil innstilling til jobben. Om det ikke var det da Høgberg ble
-ansatt, så er det nå helt klart formelle krav om pedagogisk kompetanse
-når man ansetter i førstestillinger og når man vurderer opprykk til
-professor. Men det er klart at det å undervise ikke er en enkel
-oppgave, og i likhet med kritisk tenkning og vitenskapelig skriving må
-det trenes opp. Og som vi har sett over, så er opptrening av
-ferdigheter arbeidskrevende, og det trenger ikke være slik at
+Professor Høgberg er ikke like ekstrem i
+[sin kritikk](http://universitas.no/nyheter/63921/benedikte-hogberg-jeg-er-blitt-en-av-de-minst-pa)
+som Knutsen og Hagtvet, og har en del gode og godt motiverte poenger i
+sine uttalelser.  Jeg vil tro det er bred enighet, også blant
+studenter, om at hetsing og mobbing, slik hun beskriver, er like
+uakseptabelt på internett som det var på doveggen. Men gullkornet om
+at *«professorer skal ikke ha pedagogiske evner»* er både uriktig og
+vitner om feil innstilling til jobben. Om det ikke var det da Høgberg
+ble ansatt, så er det nå helt klart formelle krav om pedagogisk
+kompetanse når man ansetter i førstestillinger og når man vurderer
+opprykk til professor. Men det er klart at det å undervise ikke er en
+enkel oppgave, og i likhet med kritisk tenkning og vitenskapelig
+skriving må det trenes opp. Og som vi har sett over, så er opptrening
+av ferdigheter arbeidskrevende, og det trenger ikke være slik at
 pedagogiske ferdigheter er noe professorer må skaffe seg selv. Men da
 er det gjerne flere en bare studentene man må slutte å «dulle med»,
 som Knutsen og Hagtvet så fint uttrykker det.
 
+<figure class="rightbox">
+<a href="https://commons.wikimedia.org/wiki/File:After_Ragnar%C3%B6k_by_Doepler.jpg"><img src="{{ "/assets/img/studentkvalitet/After_Ragnarok_by_Doepler.jpg" | absolute_url }}" alt="Etter Ragnarok" title="Etter Ragnarok, av Emil Doepler (1905)" /></a>
+<p>
+Endetiden er, som alltid, nær – men det er ikke sikkert det blir så ille etterpå likevel.
+</p>
+<p class="credit">(“Die neue Welt nach Ragnarök”, Emil Doepler d.J.)</p>
+</figure>
+
+
 Som universitetslærere er ikke jobben vår å produsere blåkopier av oss
-selv, uansett hvor fantastiske vi måtte være. Vår oppgave er å gi de
-neste generasjonene den bakgrunnen de trenger i *sin verden* – som
-ikke vil være den samme som *vår verden*, som igjen er forskjellig fra
-våre foreldres verden. Kulturgapet mellom disse er allerede stort nok
-til at Knutsen og Hagtvet roper varsku om at verden går under og
-samfunnet forfaller. Dette er kanskje også riktig fra deres
-synspunkt. Hvis de vil at studentene skal oppleve dem som relevante,
-bør de kanskje sette seg ned og prate med dem, finne ut hva de har
-fylt hodene sine med hittil, og se hvordan verden ser ut med deres
-øyne – den er ikke så ille som ryktene sier.
+selv, uansett hvor fantastiske vi måtte være (eller tro at vi er). Vår
+oppgave er å gi de neste generasjonene den bakgrunnen de trenger i
+*sin verden* – som ikke vil være den samme som *vår verden*, som igjen
+er forskjellig fra våre foreldres verden. Kulturgapet mellom disse er
+allerede stort nok til at Knutsen og Hagtvet roper varsku om at verden
+går under og samfunnet forfaller. Dette er kanskje også riktig fra
+deres synspunkt. Hvis de vil at studentene skal oppleve dem som
+relevante, bør de kanskje sette seg ned og prate med dem, finne ut hva
+de har fylt hodene sine med hittil, og se hvordan verden ser ut med
+deres øyne – den er ikke så ille som ryktene sier.
 
 Det er ikke slik at kunnskapen og ferdighetene til en professor (eller
 førsteamanuensis) er verdiløs; og de fleste studenter går i gang med

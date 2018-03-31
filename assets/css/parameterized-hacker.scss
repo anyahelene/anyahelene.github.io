@@ -38,8 +38,11 @@ p {
     margin: 16px 0;
 }
 
-p:first-child, p:last-child {
-    margin: 0;
+p:first-child {
+    margin-top: 0;
+}
+p:last-child {
+    margin-bottom: 0;
 }
 
 
@@ -53,6 +56,13 @@ p.byline {
     margin: -8px 0 20px 0;
     font-size: smaller;
 }
+
+p.credit {
+    margin: -14px 0 0 0;
+    font-style: italic;
+    font-size: 10px;
+    text-align: right;
+}    
 
 li {
   line-height: 1.4 ;
