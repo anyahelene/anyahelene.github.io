@@ -62,7 +62,7 @@ det annerledes. En slik utrolig påstand bør helst følges opp med svært
 troverdige argumenter.
 
 <figure class="rightbox">
-<img src="{{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }}" alt="Skolen i Athen, av Raphael" /> 
+<img src="{{ "/assets/img/studentkvalitet/Raphael_School_of_Athens.jpg" | absolute_url }}" alt="Skolen i Athen" title="Skolen i Athen, av Raphael" /> 
 
 <p> Folk har klaget over de unges forfall til alle tider; det kjente
 sitatet <em>«The children now love luxury. They have bad manners,
@@ -137,7 +137,7 @@ rett og slett fordi studentene tilpasser seg og prøver å gjøre det
 beste ut av samfunnet de lever i?
 
 <figure class="leftbox">
-<img src="{{ "/assets/img/studentkvalitet/Laurentius_de_Voltolina_001.jpg" | absolute_url }}" alt="Skolen i Bologna, av Laurentius a Voltolina" /> 
+<img src="{{ "/assets/img/studentkvalitet/Laurentius_de_Voltolina_001.jpg" | absolute_url }}" alt="Forelesning på 1300-tallet" title="Skolen i Bologna, av Laurentius a Voltolina (andre halvdel av 1300-tallet)" /> 
 
 <p>Tidlig i universitetshistorien kunne man gjerne ha <em>forelesninger</em> i ordets rette forstand – med en <em>lektor</em> som leser høyt fra kilden. God gammeldags tavleteknologi har revolusjonert forelesningen, og blir som regel bedre mottatt enn høytlesning fra powerpoint. En del ting har selvfølgelig ikke endret seg siden middelalderen: det er alltids fare for at noen sitter på bakerste rad og sover.</p>
 </figure>
