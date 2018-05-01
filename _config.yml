@@ -1,7 +1,6 @@
 theme: jekyll-theme-hacker
 sass:
     sass_dir: assets/css/
-
 permalink: /:categories/:year/:month/:day/:slug/
 timezone: Europe/Amsterdam
 author: Anya Helene Bagge
@@ -10,3 +9,32 @@ description:
 disqus:
     shortname: anya-bagge-no
 url: http://www.anya.bagge.no
+bibfields: [ supersededby, year, editor, journal, series, number, volume, issue, pages, numpages, articleno, publisher, institution, address, doi, isb, issn, location, pdf, note ]
+authors:
+    anya:
+        name: Anya Helene Bagge
+        url: http://www.ii.uib.no/~anya/
+    maylill:
+        name: May-Lill Bagge
+        url: http://maylill.bagge.no/
+    anna: 
+        name: Anna Maria Eilertsen
+        url: https://annaei.github.io/
+    magne:
+        name:  Magne Haveraaen
+        url: http://www.ii.uib.no/~magne/
+    valentin: 
+        name: Valentin David
+        url: http://www.valentindavid.com/
+    vadim:
+        name: Vadim Zaytsev
+        url: http://grammarware.net/
+    tero: 
+        name: Tero Hasu
+        url: http://terohasu.net/
+    karltk: 
+        name: Karl Trygve Kalleberg
+        url: http://kalleberg.org/
+    ralf: 
+        name: Ralf Lämmel
+        url: http://softlang.wikidot.com/rlaemmel:home

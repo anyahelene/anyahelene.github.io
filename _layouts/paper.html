@@ -1,0 +1,45 @@
+---
+tagline: <em><a href="/papers">/papers</a></em>
+layout: default
+---
+{% assign authors=""
+%}{% assign join=""
+%}{% assign numAuthors=page.author.size
+%}{% assign lastAuthorNum=numAuthors | minus: 1
+%}{% assign sndLastAuthorNum=numAuthors | minus: 2
+%}{% for i in (0..lastAuthorNum) %}
+  {% assign a=page.author[i] %}
+  {% if site.authors[a] %}
+    {% if site.authors[a].url %}
+      {% capture authors %}{{authors}}{{join}}<a href="{{site.authors[a].url}}">{{site.authors[a].name}}</a>{% endcapture %}
+    {% else %}
+      {% capture authors %}{{authors}}{{join}}{{site.authors[a].name}}{% endcapture %}
+    {% endif %}
+  {% else %}
+      {% capture authors %}{{authors}}{{join}}{{a}}{% endcapture %}
+  {% endif %}
+  {% if i == sndLastAuthorNum %}{% assign join=" and " %}{% else %}{% assign join=", " %}{% endif %}
+{% endfor %}
+<div class="paper">
+<h1 class="paper-title">{{ page.title }}</h1>
+<p class="authors">{{authors}}</p>
+{% if page.paperclass %}<p class="paper-class">({{ page.paperclass }})</p>{% endif %}
+<h4>Citation:</h4>
+{% include paper.bib %}
+{% if page.supersededby %}<h4>Superseded By:</h4>Please read/cite
+<a href="{{ page.supersededby }}.html">the newer paper</a> rather than this one.{% endif %}
+{% if page.event %}<h4>{{ page.eventkind }}:</h4>{% if page.eventurl %}<a href="{{ page.eventurl }}">{{ page.event }}</a>{% else %}{{ page.event }}{% endif %}{% if page.location %}, {{ page.location }}{% endif %}, {{ page.eventyear }}{% if page.publishedurl %}, <a href="{{ page.publishedurl }}">proceedings pp.{{ page.pages }}</a>{% endif %}{% endif %}
+{% if page.journal %}<h4>Journal:</h4>{% if page.journalurl %}<a href="{{ page.journalurl }}">{{ page.journal }}</a>{% else %}{{ page.journal }}{% endif %} {% if page.publishedurl %}<a href="{{ page.publishedurl }}">{{ page.volumeissuepages }}</a>{% else %}{{ page.volumeissuepages }}{% endif %}, {{ page.publishedyear }}{% endif %}
+{% if page.pdf or page.pdfurl2 or page.pdfurl3 or doi or morepaperlinks %}<h4>Paper Links:</h4>{% endif %}
+{% if page.doi %}<a href="http://dx.doi.org/{{ page.doi }}">[doi]</a>{% endif %}
+{% if page.pdf %}<a href="{{ page.pdf }}">[pdf{% if page.PDFINFO %} {{ page.PDFINFO }}{% endif %}]</a>{% endif %}
+{% if page.pdfurl2 %}<a href="{{ page.pdfurl2 }}">[pdf{% if page.pdfinfo2 %} {{ page.pdfinfo2 }}{% endif %}]</a>{% endif %}
+{% if page.pdfurl3 %}<a href="{{ page.pdfurl3 }}">[pdf{% if page.pdfinfo3 %} {{ page.pdfinfo3 }}{% endif %}]</a>{% endif %}
+{{ page.morepaperlinks | default: "" }}
+{% if content %}<h4>Abstract:</h4><div class="abstract">{{ content }}</div>{% endif %}
+{% if page.about %}<h4>About:</h4><p>{{ page.about }}</p>{% endif %}
+{% if page.software %}<h4>Related Software:</h4>{{ page.software }}{% endif %}
+{% if page.project %}<h4>Related Project:</h4>{{ page.project }}{% endif %}
+<h4 id="bib">BibTeX:</h4><pre class="bibtex">{% include paper.bib %}</pre>
+{% if page.copyright %}<h4>Copyright:</h4>{{ page.copyright }}{% endif %}
+</div>

@@ -1,0 +1,22 @@
+{% assign authors=""
+%}{% assign join=""
+%}{% assign numAuthors=page.author.size
+%}{% assign lastAuthorNum=numAuthors | minus: 1
+%}{% assign sndLastAuthorNum=numAuthors | minus: 2
+%}{% for i in (0..lastAuthorNum) %}
+  {% assign a=page.author[i] %}
+  {% if site.authors[a] %}
+      {% capture authors %}{{authors}}{{join}}{{site.authors[a].name}}{% endcapture %}
+  {% else %}
+      {% capture authors %}{{authors}}{{join}}{{a}}{% endcapture %}
+  {% endif %}
+  {% assign join=" and " %}
+{% endfor 
+%}{% assign OPEN="{" %}{% assign CLOSE="}" %}
+{% if page.booktitle %}{% assign booktitle=page.booktitle%}{% elsif page.event %}{% capture booktitle %}Proceedings of the {{page.event}}{% endcapture %}{% endif 
+%}@{{ page.bibkind }}{{ page.path | replace: "papers/", "" | replace: ".md", "" | prepend: OPEN}},
+  title = {{ page.title | prepend: OPEN | append: CLOSE }},
+  author = {{ authors | prepend: OPEN | append: CLOSE }},{% if booktitle %}
+  booktitle = {{ booktitle | prepend: OPEN | append: CLOSE }},{% endif
+%}{% for field in site.bibfields %}{% if page[field]  %}
+  {{ field }} = {{ page[field] | prepend: OPEN | append: CLOSE }},{% endif %}{% endfor %}
