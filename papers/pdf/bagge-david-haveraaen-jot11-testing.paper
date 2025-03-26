@@ -1,0 +1,24 @@
+Approved: publish
+Publish-Date: 2011-06-01
+Bib-Kind: Article
+Bib-Author: Anya Helene Bagge and Valentin David and Magne Haveraaen
+Author: %Anya%, %Valentin% and %Magne%
+Title: Testing with Axioms in C++ 2011
+Bib-Title: Testing with Axioms in {C++~2011}
+Journal: Journal of Object Technology
+Editor: Bernd Fischer
+Publisher: AITO
+Published-Year: 2011
+Volume: 10
+Pages: 10:1–32 
+ISSN: 1660-1769
+DOI: 10.5381/jot.2011.10.1.a10
+Kind: journal
+Category: concepts, testing
+Software: %[[http://catsfoot.sourceforge.net/ The Catsfoot Concept Library]]%
+Project: %Testing-Project%
+Copyright: %JOT-Copyright%
+Abstract:
+  Unit testing is an important part of modern software development, where individual code units are tested in isolation. Such tests are typically case-based, checking a likely error scenario or an error that has previously been identified and fixed. Coming up with good test cases is challenging, particularly when testing generic code, and focusing on individual tests can distract from creating tests that cover the full functionality.
+  <em>Concepts</em> provide a generic way of describing code interfaces for generic code. Together with <em>axioms</em>, program behaviour can be specified algebraically in a formal or semi-formal way.
+  In this paper we show how concepts and axioms can be expressed in standard C++ 2011, and explore how to generate generic unit tests, by treating the axioms as code to be evaluated with test data. We also show a generic way to generate test data for axiom-based testing in C++ 2011.

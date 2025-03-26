@@ -1,0 +1,29 @@
+Approved: publish
+Publish-Date: 2013-10-01
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene and Zaytsev, Vadim
+Author: %Anya% and %Vadim%
+Title: Workshop on Open and Original Problems in Software Language Engineering
+Event: 20th Working Conference on Reverse Engineering (WCRE'13)
+Event-Kind: Conference
+Event-URL: http://wcre.wikidot.com/2013
+Event-Year: 2013
+Event-Month: October
+Booktitle: Proceedings of the %Event%
+Location: Koblenz, Germany
+Publisher: IEEE
+Published-Year: 2013
+Published-Month: October
+Address: 
+Volume: 
+Issue: 
+Pages: 493–494
+ISBN:
+DOI: 10.1109/WCRE.2013.6671334
+Kind: abstract
+Paper-Class: Workshop Description
+Category: sle
+Project: %[[http://oopsle.github.io/ OOPSLE]]%
+Copyright: %IEEE-Copyright%
+Abstract:
+  The OOPSLE workshop is a discussion-oriented and collaborative forum for formulating and addressing with open, unsolved and unsolvable problems in software language engineering (SLE), which is a research domain of systematic, disciplined and measurable approaches of development, evolution and maintenance of artificial languages used in software development. OOPSLE aims to serve as a think tank in selecting candidates for the open problem list, as well as other kinds of unconventional questions and definitions that do not necessarily have clear answers or solutions, thus facilitating the exposure of dark data. We also plan to formulate promising language-related challenges to organise in the future.

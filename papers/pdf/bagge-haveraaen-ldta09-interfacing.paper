@@ -1,0 +1,51 @@
+Approved: publish
+Publish-Date: 2010-09-07
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge and Magne Haveraaen
+Author: %Anya% and %Magne%
+Title: Interfacing Concepts: Why Declaration Style Shouldn’t Matter
+Event: Ninth Workshop on Language Descriptions, Tools and Applications (LDTA '09)
+Event-Kind: Workshop
+Event-URL: http://ldta.info/2009/
+Event-Year: 2009
+Event-Month: March
+Booktitle: Proceedings of the %Event%
+Venue: %Booktitle%, %Location%
+Location: York, UK
+Journal: Electronic Notes in Theoretical Computer Science
+Editor: Torbjörn Ekman and Jurgen J. Vinju
+Publisher: Elsevier
+Published-Year: 2010
+Published-Month: September
+Volume: 253
+Issue: 7
+Pages: 37–50
+ISSN: 1571-0661
+DOI: 10.1016/j.entcs.2010.08.030
+Kind: workshop
+Category: concepts, modularity
+Project: %PhD-Project%
+Copyright: %Elsevier-Copyright%
+Abstract:
+  A <em>concept</em> (or <em>signature</em>) describes the interface of a set
+  of abstract types by listing the operations that should be supported for
+  those types.  When implementing a generic operation, such as sorting, we
+  may then specify requirements such as “elements must be comparable” by
+  requiring that the element type models the Comparable concept.  We may
+  also use axioms to describe behaviour that should be common to all models
+  of a concept.
+  
+  However, the operations specified by the concept are not always the ones
+  that are best suited for the implementation.  For example, numbers and
+  matrices may both be addable, but adding two numbers is conveniently done
+  by using a return value, whereas adding a sparse and a dense matrix is
+  probably best achieved by modifying the dense matrix.  In both cases,
+  though, we may want to pretend we're using a simple function with a
+  return value, as this most closely matches the notation we know from
+  mathematics.
+  
+  This paper presents two simple concepts to break the notational tie between
+  implementation and use of an operation: <em>functionalisation</em>,
+  which derives a set of canonical pure functions from a procedure; and
+  <em>mutification</em>, which translates calls using the functionalised
+  declarations into calls to the implemented procedure.

@@ -1,0 +1,33 @@
+Approved: publish
+Publish-Date: 2013-06-18
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene and L\"{a}mmel, Ralf
+Author: %Anya% and %Ralf%
+Title: Walk Your Tree Any Way You Want
+Paper-URL: http://nuthatchery.org/icmt13/
+Event: Sixth International Conference on Model Transformation (ICMT'13)
+Event-Kind: Conference
+Event-URL: http://www.model-transformation.org/ICMT2013/
+Event-Year: 2013
+Event-Month: June
+Booktitle: Proceedings of the %Event%
+Venue: %Booktitle%, %Location%
+Location: Budapest, Hungary
+Series: LNCS
+Editor: Keith Duddy and Gerti Kappel
+Publisher: Springer
+Published-Year: 2013
+Published-Month: June
+Address: 
+Volume: 7909
+Issue: 
+Pages: 33–49
+ISSN: 
+ISBN: 978-3-642-38883-5
+DOI: 10.1007/978-3-642-38883-5_3
+Kind: conference
+Category: transformation, sle
+Project: %Nuthatch-Project%
+Copyright: %Springer-Copyright%
+Abstract:
+  Software transformations in the Nuthatch style are described as walks over trees (possibly graphs) that proceed in programmer- defined steps which may observe join points of the walk, may observe and affect state associated with the walk, may rewrite the walked tree, may contribute to a built tree, and must walk somewhere, typically along one branch or another. The approach blends well with OO programming. We have implemented the approach in the Nuthatch/J library for Java.

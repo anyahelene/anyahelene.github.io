@@ -1,0 +1,36 @@
+Approved: publish
+Publish-Date: 2009-10-04
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene and David, Valentin and Haveraaen, Magne
+Author: %Anya%, %Valentin% and %Magne% 
+Bib-Title: The Axioms Strike Back: Testing with Concepts and Axioms in {C++}
+Superseded-By: bagge-david-haveraaen-jot11-testing
+Title: The Axioms Strike Back: Testing with Concepts and Axioms in C++
+Event: Eighth International Conference on Generative Programming and Component Engineering (GPCE’09)
+Event-Kind: Conference
+Event-URL: http://program-transformation.org/GPCE09 
+Event-Year: 2009
+Event-Month: October
+Booktitle: Proceedings of the %Event%
+Venue: %Booktitle%, %Location%
+Location: Denver, Colorado, USA
+Journal: 
+Editor: Bernd Fischer
+Publisher: ACM
+Published-Year: 2009
+Published-Month: October
+Address: New York, NY, USA
+Volume: 
+Issue: 
+Pages: 15–24
+ISSN: 
+ISBN: 978-1-60558-494-2
+DOI: 10.1145/1621607.1621612
+Kind: conference
+Category: concepts, testing
+Project: %Testing-Project%
+Copyright: %ACM-Copyright%
+Abstract:
+  <p>Modern development practises encourage extensive testing of code while it is still under development, using unit tests to check individual code units in isolation. Such tests are typically case-based, checking a likely error scenario or an error that has previously been identified and fixed. Coming up with good test cases is challenging, and focusing on individual tests can distract from creating tests that cover the full functionality.</p>
+  <p>Axioms, known from program specification, allow for an alternative way of generating test cases, where the intended functionality is described as rules or equations that can be checked automatically. Axioms are proposed as part of the <em>concept</em> feature of the upcoming C++0x standard.</p>
+  <p>In this paper, we describe how tests may be generated automatically from axioms in C++ concepts, and supplied with appropriate test data to form effective automated unit tests.</p>

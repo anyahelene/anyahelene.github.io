@@ -1,0 +1,30 @@
+Approved: publish
+Publish-Date: 2014-09-01
+Bib-Kind: InProceedings
+Bib-Author: Zaytsev, Vadim and Bagge, Anya Helene
+Author: %Vadim% and %Anya%
+Title: Parsing in a Broad Sense
+Event: 17th International Conference on Model Driven Engineering Languages and Systems (MODELS'14)
+Event-Kind: Conference
+Event-URL: http://models2014.webs.upv.es/
+Event-Year: 2014
+Event-Month: September
+Booktitle: Proceedings of the %Event%
+Location: Valencia, Spain
+Editor: Jurgen Dingel and Wolfram Schulte
+Publisher: Springer
+Published-Year: 2014
+Published-Month: September
+Volume: 8767
+Series: LNCS
+Pages: 50–67
+Software: %[[https://github.com/grammarware/bx-parsing Case Study Demonstrating the Bidirectional Megamodel of Parsing and Unparsing]]%
+ISBN:
+DOI: 
+Kind: conference
+Category: megamodelling, sle
+Project: 
+Copyright: %Springer-Copyright%
+Abstract:
+  Having multiple representations of the same instance is common in software language engineering: models can be visualised as graphs, edited as text, serialised as XML. When mappings between such representations are considered, terms “parsing” and “unparsing” are often used with incompatible meanings and varying sets of underlying assumptions. We investigate 12 classes of artefacts found in software language processing, present a case study demonstrating their implementations and state-of-the-art mappings among them, and systematically explore the technical research space of bidirectional mappings to build on top of the existing body of work and discover as of yet unused relationships.
+

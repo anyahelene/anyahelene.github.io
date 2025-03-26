@@ -1,0 +1,34 @@
+Approved: publish
+Publish-Date: 2013-07-01
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge
+Author: %Anya%
+Title: Facts, Resources and the IDE/Compiler Mind-Meld
+Bib-Title: Facts, Resources and the {IDE}/Compiler Mind-Meld
+Event: 4th International Workshop on Academic Software Development Tools and Techniques (WASDeTT'13)
+Event-Kind: Workshop
+Event-URL: http://wasdett.org/2013/
+Event-Year: 2013
+Event-Month: July
+Booktitle: Proceedings of the %Event%
+Location: Montpellier, France
+Journal: 
+Editor: Mark van den Brand and Kim Mens and Pierre-Etienne Moreau and Jurgen Vinju
+Publisher: WASDeTT
+Published-Year: 2013
+Published-Month: July
+Address: 
+Volume: 
+Issue: 
+Pages: 
+ISSN: 
+ISBN:
+DOI: 
+Kind: workshop
+Category: ide, sle
+Project: %DMPL-Project%
+Software: %[[https://www.ii.uib.no/trac/magnolia/ Magnolia IDE and Compiler]]%
+Copyright: %Author-Copyright%
+Abstract:
+  <p>Classical compiler architecture is centred around producing object code in a batch-oriented fashion. Integrated development environments (IDEs) present new challenges to the language implementer: information should be (almost) instantly available, presented even for incorrect code, and should be dynamically updated as the user is editing. To increase responsiveness, it may be necessary to compute information incrementally, and to make use of multicore processors. An existing compiler cannot easily be adapted to provide IDE services without impacting the user experience; typically, IDE developers have to develop their own language frontends particularly targeted at IDE use.</p> 
+  <p>In this paper, we shall discuss the design of an Eclipse-integrated implementation of the experimental Magnolia programming language. The implementation is modular, with code and data being shared by both the editor and the compiler, and the design has been done with incrementality and multi-threading in mind.</p>

@@ -1,0 +1,29 @@
+Approved: publish
+Publish-Date: 2014-02-03
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene and Zaytsev, Vadim
+Author: %Anya% and %Vadim%
+Title: Workshop on Open and Original Problems in Software Language Engineering
+Event: Software Evolution Week 2014 (CSMR/WCRE'14)
+Event-Kind: Conference
+Event-URL: http://ansymo.ua.ac.be/csmr-wcre
+Event-Year: 2014
+Event-Month: February
+Booktitle: Proceedings of the %Event%
+Location: Antwerp, Belgium
+Publisher: IEEE
+Published-Year: 2014 
+Published-Month: February
+Address: 
+Volume: 
+Issue: 
+Pages: 478
+ISBN:
+DOI: 10.1109/CSMR-WCRE.2014.6747223
+Kind: abstract
+Paper-Class: Workshop Description
+Category: sle
+Project: %[[http://oopsle.github.io/ OOPSLE]]%
+Copyright: %IEEE-Copyright%
+Abstract:
+  The second international workshop on Open and Original Problems in Software Language Engineering (OOPSLE'14) follows the first one held at WCRE 2013 in Koblenz. It is meant to be a discussion-oriented and collaborative forum for formulating and addressing with open, unsolved and unsolvable problems in software language engineering (SLE), which is a research domain of systematic, disciplined and measurable approaches of development, evolution and maintenance of artificial languages used in software development. OOPSLE aims to serve as a think tank for identifying and formulating challenges in the software language engineering field - these challenges could be addressed later at venues like SLE, MODELS, CSMR, WCRE, ICSM and others.

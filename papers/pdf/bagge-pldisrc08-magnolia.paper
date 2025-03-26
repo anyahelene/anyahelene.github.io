@@ -1,0 +1,34 @@
+Approved: publish
+Publish-Date: 2008-06-07
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge
+Author: %Anya%
+Bib-Title: The {M}agnolia Programming Language
+Title: The Magnolia Programming Language
+Event: PLDI Student Research Competition 2008
+Event-Kind: Student Research Competition
+Event-URL: http://www.cs.ucla.edu/~todd/pldi08/PLDI08-SRC.html
+Event-Year: 2008
+Event-Month: June
+Booktitle: %Event%
+Venue: %Booktitle%, %Location%
+Location: Tucson, Arizona
+Journal: 
+Editor: 
+Publisher: ACM
+Published-Year: 2008
+Published-Month: June
+Address: 
+Volume: 
+Issue: 
+Pages: 
+ISSN: 
+ISBN:
+DOI: 
+Kind: abstract
+Paper-Class: Abstract / Poster
+Category: languages
+Project: 
+Copyright: %Author-Copyright%
+Abstract:
+  

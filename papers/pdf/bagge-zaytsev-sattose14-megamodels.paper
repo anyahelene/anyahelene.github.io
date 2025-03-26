@@ -1,0 +1,38 @@
+Approved: publish
+Publish-Date: 2014-06-10
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge and Vadim Zaytsev
+Author: %Anya% and %Vadim%
+Title: Languages, Models and Megamodels
+Event: SATToSE 2014
+Event-Kind: Symposium
+Event-URL: http://sattose.org/2014
+Event-Year: 2014
+Event-Month: June
+Booktitle: Post-proceedings of %Event%
+PDF2: /papers/bagge-sattose14-megamodels.pdf
+PDFINFO2: slides
+Venue: %Booktitle%, %Location%
+Location: L’Aquila, Italy
+Journal: 
+Editor: Vadim Zaytsev
+Volume: 1354
+Publisher: CEUR
+Published-Year: 2015
+Published-Month: April
+Address:
+Volume: 1346
+Issue:
+Pages: 132–143
+ISSN: 1613-0073
+DOI: 
+Kind: abstract
+Paper-Class: Tutorial
+Category: megamodelling, sle
+Project: 
+Copyright: %Author-Copyright%
+Abstract:
+  <p>A model is an abstraction of a system, made to facilitate some kind of understanding or processing by humans or computers. Abstracting away from details allows us to deal with systems that would otherwise be too large or too complicated to deal with.</p>
+  <p>Models and modelling are of particular importance in software engineering for two reasons: First, the software itself is often meant to model some system; and second, software systems tend to be so large and complicated that they are themselves in need of modelling as part of the development process.</p>
+  <p>Modelling of systems and modelling of software naturally brings us to the modelling of modelling and of models. While metamodels are models of modelling languages (i.e., the abstractions used to describe models), a megamodel is a model of a system of models (i.e., a model where the elements are models). The design of software systems may involve many models, metamodels and artifacts – all of these can be captured in a megamodel, together with the relationships between them. The details of the individual models are abstracted away, leaving a bird’s eye view of the roles and relationships of the models.</p>
+  <p>This tutorial will explain megamodelling in practice, with a particular focus on examples from software language engineering.</p>

@@ -1,0 +1,35 @@
+Approved: publish
+Publish-Date: 2014-09-01
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge and Ralf L{\"a}mmel and Vadim Zaytsev
+Author: %Anya%, %Ralf% and %Vadim%
+Title: Reflections on Courses for Software Language Engineering
+Event: MODELS 2014 Educators Symposium
+Event-Kind: Symposium
+Event-URL: http://models2014.webs.upv.es/educationsymposium.htm
+Event-Year: 2014
+Event-Month: September
+Booktitle: Proceedings of the %Event%
+Venue: %Booktitle%, %Location%
+Note: 
+PDFINFO: (preprint)
+Location: Valencia, Spain
+Journal: 
+Editor:  Birgit Demuth and Dave Stikkolorum
+Publisher: CEUR
+Published-Year: 2015
+Published-Month: April
+Address: 
+Volume: 1346
+Issue: 
+Pages: 54–63
+ISSN: 1613-0073
+ISBN:
+DOI: 
+Kind: workshop
+Category: education, sle
+Project: 
+Copyright: %Author-Copyright%
+Abstract:
+  <p>Software Language Engineering (SLE) has emerged as a field in computer science research and software engineering, but it has yet to become entrenched as part of the standard curriculum at universities. Many places have a compiler construction (CC) course and a programming languages (PL) course, but these are not aimed at training students in typical SLE matters such as DSL design and implementation, language workbenches, generalised parsers, and meta-tools.</p>
+  <p>We describe our experiences with developing and teaching software language engineering courses at the Universities of Bergen and Koblenz-Landau. We reflect on lecture topics, assignments, development of course material, and other aspects and variation points in course design.</p>

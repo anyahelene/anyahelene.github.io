@@ -1,0 +1,32 @@
+Approved: publish
+Publish-Date: 2010-03-27
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene
+Author: %Anya%
+Title: Language description for Front End implementation
+Event: Tenth Workshop on Language Descriptions, Tools and Applications (LDTA’10)
+Event-Kind: Workshop
+Event-URL: http://ldta.info/2010/
+Event-Year: 2010
+Event-Month: March
+Booktitle: Proceedings of the %Event%
+Venue: %Booktitle%, %Location%
+Location: Paphos, Cyprus
+Journal: 
+Editor: Claus Brabrand and Pierre-Etienne Moreau
+Publisher: ACM
+Published-Year: 2010
+Published-Month: March
+Address: New York, NY, USA
+Volume: 
+Issue: 
+Pages: 9:1–9:8
+ISSN: 
+ISBN: 978-1-4503-0063-6
+DOI: 10.1145/1868281.1868290
+Kind: workshop
+Category: languages, specification, sle
+Project: 
+Copyright: %ACM-Copyright%
+Abstract:
+  For a language to be useful, it requires a robust and reliable implementation. Writing and maintaining such an implementation is a hard task, particularly for experimental or domain-specific language projects where resources are limited. This paper describes an implementation approach based on modular specifications of syntax and static semantics. Specification is done in a language description DSL, which serves both as a specification, and as code from which compiler front ends can be automatically generated.

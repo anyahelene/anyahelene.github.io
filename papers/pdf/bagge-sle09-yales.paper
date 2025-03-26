@@ -1,0 +1,34 @@
+Approved: publish
+Publish-Date: 2010-03-01
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene
+Author: %Anya%
+Title: Yet Another Language Extension Scheme
+Event: Second International Conference on Software Language Engineering (SLE’09)
+Event-Kind: Conference
+Event-URL: http://www.sleconf.org/2009/
+Event-Year: 2009
+Event-Month: October
+Booktitle: Proceedings of the %Event%
+Venue: %Booktitle%, %Location%
+Location: Denver, Colorado, USA
+Series: LNCS
+Editor: Mark van den Brand and Dragan Gašević and Jeff Gray
+Publisher: Springer
+Published-Year: 2010
+Published-Month: March
+Address: 
+Volume: 5969
+Issue: 
+Pages: 123–132
+ISSN: 
+ISBN: 978-3-642-12107-4
+DOI: 10.1007/978-3-642-12107-4_9
+Kind: conference
+Paper-Class: Short Paper
+Category: transformation, sle
+Project: 
+Copyright: %Springer-Copyright%
+Abstract:
+  Magnolia is an experimental programming language designed to try out novel language features. For a language to be a flexible basis for new constructs and language extensions, it will need a flexible compiler, one where new features can be prototyped with a minimum of effort. This paper proposes a scheme for compilation by transformation, in which the compilation process can be extended by the program being compiled. We achieve this by making a domain-specific transformation language for processing Magnolia programs, and embedding it into Magnolia itself.
+

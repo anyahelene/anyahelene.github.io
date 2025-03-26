@@ -1,0 +1,33 @@
+Approved: publish
+Publish-Date: 2013-10-27
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene and Hasu, Tero
+Author: %Anya% and %Tero%
+Title: A Pretty Good Formatting Pipeline
+Paper-URL: http://nuthatchery.org/sle13/
+PDF: http://nuthatchery.org/downloads/papers/bagge-hasu-pgf-sle2013.pdf
+Event: 6th International Conference on Software Language Engineering
+Event-Kind: Conference
+Event-URL: http://www.sleconf.org/2013/
+Event-Year: 2013
+Event-Month: October
+Booktitle: Proceedings of the %Event%
+Location: Indianapolis, IN, USA
+Series: LNCS
+Editor: Martin Erwig and Richard F. Paige and Eric Van Wyk
+Publisher: Springer
+Published-Year: 2013
+Published-Month: October
+Address: 
+Volume: 8225
+Issue: 
+Pages: 177–196
+ISSN: 
+ISBN: 978-3-319-02654-1
+DOI: 10.1007/978-3-319-02654-1_10
+Kind: conference
+Category: formatting, sle
+Project: 
+Copyright: %Springer-Copyright%
+Abstract:
+  Proper formatting makes the structure of a program apparent and aids program comprehension. The need to format code arises in code generation and transformation, as well as in normal reading and editing situations. Commonly used pretty-printing tools in transformation frameworks provide an easy way to produce indented code that is fairly readable for humans, without reaching the level of purpose-built reformatting tools, such as those built into IDEs. This paper presents a library of pluggable components, built to support style-based formatting and reformatting of code, and to enable further experimentation with code formatting.

@@ -1,0 +1,27 @@
+Approved: publish
+Publish-Date: 2006-10-22
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge and Valentin David and Magne Haveraaen and Karl Trygve Kalleberg
+Author: %Anya%, %Valentin%, %Magne% and %Karl-Trygve%
+Title: Stayin' alert: moulding failure and exceptions to your needs
+Event: Fifth international conference on Generative Programming and Component Engineering (GPCE'06)
+Event-Kind: Conference
+Event-URL: http://www.program-transformation.org/GPCE06/
+Event-Year: 2006
+Event-Month: October
+Booktitle: Proceedings of the %Event%
+Location: Portland, Oregon
+Editor: 
+Publisher: ACM
+Published-Year: 2006
+Published-Month: October
+Address: New York, NY, USA
+Pages: 265–274
+ISBN: 1-59593-237-2
+DOI: 10.1145/1173706.1173747
+Kind: conference
+Category: alerts, exceptions
+Project: 
+Copyright: %ACM-Copyright%
+Abstract:
+  Dealing with failure and exceptional situations is an important but tricky part of programming, especially when reusing existing components. Traditionally, it has been up to the designer of a library to decide whether to use a language's exception mechanism, return values, or other ways to indicate exceptional circumstances. The library user has been bound by this choice, even though it may be inconvenient for a particular use. Furthermore, normal program code is often cluttered with code dealing with exceptional circumstances.This paper introduces an alert concept which gives a uniform interface to all failure mechanisms. It separates the handling of an exceptional situation from reporting it, and allows for retro-fitting this for existing libraries. For instance, we may easily declare the error codes of the POSIX C library for file handling, and then use the library functions as if C had been extended with an exception mechanism for these functions -- a moulding of failure handling to the user's needs, independently of the library designer's choices.

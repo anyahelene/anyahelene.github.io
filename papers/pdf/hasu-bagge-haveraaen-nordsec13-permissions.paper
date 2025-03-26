@@ -1,0 +1,33 @@
+Approved: publish
+Publish-Date: 2013-10-18
+Bib-Kind: InProceedings
+Bib-Author: Hasu, Tero and Bagge, Anya Helene and Haveraaen, Magne
+Author: %Tero%, %Anya% and %Magne%
+Title: Inferring Required Permissions for Statically Composed Programs
+Event: 18th Nordic Conference on Secure IT Systems (NordSec'13)
+Event-Kind: Conference
+Event-URL: http://nordsec2013.imm.dtu.dk/
+Event-Year: 2013
+Event-Month: October
+Booktitle: Proceedings of the %Event%
+Location: Ilulissat, Greenland
+Series: LNCS
+Editor: Hanne Riis Nielson and Dieter Gollmann
+Publisher: Springer
+Published-Year: 2013
+Published-Month: October
+Address: 
+Volume: 8208
+Issue: 
+Pages: 51—66
+ISSN: 
+ISBN:978-3-642-41488-6
+DOI: 10.1007/978-3-642-41488-6_4
+Kind: conference
+Software: %[[https://github.com/bldl/anyxporter Anyxporter – Sample Application]]% 
+Category: security
+Project: 
+Copyright: %Springer-Copyright%
+Abstract:
+  <p>Permission-based security models are common in smartphone operating systems. Such models implement access control for sensitive APIs, introducing an additional concern for application developers. It is important for the correct set of permissions to be declared for an application, as too small a set is likely to result in runtime errors, whereas too large a set may needlessly worry users. Unfortunately, not all platform vendors provide tools support to assist in determining the set of permissions that an application requires.</p>
+  <p>We present a language-based solution for permission management. It entails the specification of permission information within a collection of source code, and allows for the inference of permission requirements for a chosen program composition. Our implementation is based on Magnolia, a programming language demonstrating characteristics that are favorable for this use case. A language with a suitable component system supports permission management also in a cross-platform codebase, allowing abstraction over different platform-specific implementations and concrete permission requirements. When the language also requires any “wiring” of components to be known at compile time, and otherwise makes design tradeoffs that favor ease of static analysis, then accurate inference of permission requirements becomes possible.</p>

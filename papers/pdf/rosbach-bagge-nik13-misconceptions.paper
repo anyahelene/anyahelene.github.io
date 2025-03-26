@@ -1,0 +1,32 @@
+Approved: publish
+Publish-Date: 2014-03-01
+Bib-Kind: InProceedings
+Bib-Author: Rosbach, Alexander Hoem and Bagge, Anya Helene
+Author: Alexander Hoem Rosbach and %Anya%
+Title: Classifying and Measuring Student Problems and Misconceptions
+Event: Norsk informatikkonferanse (NIK'2013)
+Event-Kind: Conference
+Event-URL: http://nik2013.uis.no/
+Event-Year: 2013
+Event-Month: November
+Booktitle: Proceedings of %Event%
+Location: Stavanger, Norway
+Journal: 
+Editor: Erlend Tøssebro and Hein Meling
+Publisher: Akademika Forlag
+Published-Year: 2014
+Published-Month: March
+Published-URL: http://tapironline.no/fil/vis/1402
+Address: Trondheim, Norway
+Volume: 
+Issue: 
+Pages: 110–121
+ISSN: 1892-0721
+ISBN: 978-82-321-0365-2
+DOI: 
+Kind: conference
+Category: education
+Project: 
+Copyright: Copyright © NIK-stiftelsen and Akademika forlag, Trondheim 2013.
+Abstract:
+  In this paper we report on an attempt to classify student problems and mistakes, and measuring the frequency of particular problems in a firstsemester programming course. We also propose a scheme for annotating student hand-ins which may be useful both in grading and in future research. 

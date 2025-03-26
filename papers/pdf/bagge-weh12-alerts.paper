@@ -1,0 +1,33 @@
+Approved: publish
+Publish-Date: 2012-06-09
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene
+Author: %Anya%
+Title: Separating Exceptional Concerns
+Event: 5th International Workshop on Exception Handling (WEH'12)
+Event-Kind: Workshop
+Event-URL: http://www.les.inf.puc-rio.br/opus/weh2012/
+Event-Year: 2012
+Event-Month: June
+Booktitle: Proceedings of the %Event%
+Venue: %Booktitle%, %Location%
+Location: Zürich, Switzerland
+Journal: 
+Editor: 
+Publisher: IEEE
+Published-Year: 2012
+Published-Month: June
+Address: 
+Volume: 
+Issue: 
+Pages: 49–51
+ISSN: 
+ISBN: 978-1-4673-1767-2
+DOI: 10.1109/WEH.2012.6226599
+Kind: workshop
+Paper-Class: Short Paper
+Category: alerts, exceptions
+Project: %DMPL-Project%
+Copyright: %IEEE-Copyright%
+Abstract:
+  Traditional error handling mechanisms, including exceptions, have several weaknesses that interfere with maintainability, flexibility and genericity in software: Error code is tangled with normal code; reporting is tangled with handling; and generic code is locked into specific ways of reporting and handling errors. We need to deal with errors in a declarative way, where the concerns of errors, error reporting and error handling are separated and dealt with individually by the programmer.

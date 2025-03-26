@@ -1,0 +1,30 @@
+Approved: publish
+Publish-Date: 2008-10-19
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge and Valentin David and Magne Haveraaen
+Author: %Anya%, %Valentin% and %Magne%
+Title: Testing with concepts and axioms in C++
+Bib-Title: Testing with concepts and axioms in {C++}
+Superseded-By: bagge-david-haveraaen-jot11-testing
+Event: OOPSLA Posters 2008
+Event-Kind: Conference
+Event-URL: http://www.oopsla.org/oopsla2008/
+Event-Year: 2008
+Event-Month: October
+Booktitle: OOPSLA Companion '08: Companion to the 23rd ACM SIGPLAN conference on Object-oriented programming systems languages and applications
+Venue: %Booktitle%, %Location%
+Location: Nashville, TN, USA
+Publisher: ACM
+Published-Year: 2008
+Published-Month: October
+Address: New York, NY, USA
+Pages: 773–774
+ISBN: 978-1-60558-220-7
+DOI: 10.1145/1449814.1449855
+Kind: abstract,poster
+Paper-Class: Extended Abstract
+Category: testing,concepts
+Project: %Testing-Project%
+Copyright: %Author-Copyright%
+Abstract:
+  <em>Unit testing</em> is a popular way of increasing software reliability. <em>Axioms</em>, known from program specification, allow functionality to be described as rules or equations. We show a method and prototype tool for using the proposed <code>concept</code> and <code>axiom</code> features of the upcoming C++0x standard for automated unit testing.

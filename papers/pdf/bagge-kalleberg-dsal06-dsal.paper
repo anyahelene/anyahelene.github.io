@@ -1,0 +1,36 @@
+Approved: publish
+Publish-Date: 2006-10-23
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge and Karl Trygve Kalleberg
+Author: %Anya% and %Karl-Trygve%
+Title: DSAL = library+notation: Program Transformation for Domain-Specific Aspect Languages
+Bib-Title: {DSAL} = library+notation: Program Transformation for Domain-Specific Aspect Languages
+Event: Domain-Specific Aspect Languages Workshop
+Event-Kind: Workshop
+Event-URL: http://dsal.dcc.uchile.cl/2006/
+Event-Year: 2006
+Event-Month: October
+Booktitle: Proceedings of the %Event%
+Venue: %Booktitle%, %Location%
+Location: Portland, Oregon, USA
+Journal: 
+Editor: Thomas Cleenewerck et al
+Publisher: DSAL
+Published-Year: 2006 
+Published-Month: October
+Address: 
+Volume: 
+Issue: 
+Pages: 1–8
+ISSN: 
+ISBN:
+DOI: 
+Kind: workshop
+Category: transformation, languages
+Project: 
+Copyright: %Author-Copyright%
+Abstract:
+  <p>Domain-specific languages (DSLs) can greatly ease program development compared to general-purpose languages, but the cost of implementing a domain-specific language can be prohibitively high compared to the perceived benefit. This is more pronounced for narrower domains, and perhaps most acute for domain-specific aspect languages (DSALs).</p>
+   <p>A common technique for implementing a DSL is writing a software library in an existing programming language. Although this does not have the same syntactic appeal and possibilities as a full implementation, it is a technique familiar to most programmers, and it can be done cheaply compared to developing a full DSL compiler. Subsequently, the desired notation may be implemented as a simple syntactic preprocessor. The cross-cutting nature of DSALs, however, makes it difficult to encapsulate these in libraries.</p>
+   <p>In this paper, we show a technique for implementing a DSAL as a library+notation. We realize this by implementing the library in a program transformation system and the notation as a syntactic extension of the subject language. We discuss our experience with applying this technique to multiple kinds of DSALs.</p>
+

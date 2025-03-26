@@ -1,0 +1,30 @@
+Approved: publish
+Publish-Date: 2014-09-05
+Bib-Kind: InProceedings
+Bib-Author: Bagge, Anya Helene and Haveraaen, Magne
+Author: %Anya% and %Magne%
+Title: Specification of Generic APIs, or Why Algebraic May Be Better than Pre/Post
+Event: International Conference on High Integrity Language Technology (HILT'14)
+Event-Kind: Conference
+Event-URL: http://sigada.org/conf/hilt2014/
+Event-Year: 2014
+Event-Month: October
+Booktitle: Proceedings of the %Event%
+Location: Portland, Oregon
+Editor: Tucker Taft
+Publisher: ACM
+Published-Year: 2014
+Published-Month: October
+Pages:
+PDFINFO: (final preprint)
+Note: 
+Address: New York, NY, USA
+ISBN: 978-1-4503-3217-0
+DOI: 10.1145/2663171.2663183
+Kind: conference
+Category: concepts, specification, testing
+Project: %Testing-Project%
+Copyright: %ACM-Licensed%
+Abstract:
+  <p>Specification based on Floyd-Hoare logic, using pre and postconditions, is common in languages aimed at high integrity software. Such pre/postcondition specifications are geared towards verification of code. While this specification technique has proven quite successful in the past 40 years, it has limitations when applied to API specification, particularly specification of generic interfaces.</p>
+  <p>API-oriented design and genericity is of particular importance in modern large-scale software development. In this situation, algebraic specification techniques have a significant advantage. Unlike pre/post-based specification, which deals with the inputs and outputs of one operation at a time, algebraic specification deals with the relationships between the different operations in an API, which is needed in the specification of generic APIs.</p>

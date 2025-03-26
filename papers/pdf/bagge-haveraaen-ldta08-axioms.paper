@@ -1,0 +1,30 @@
+Approved: publish
+Publish-Date: 2009-09-29
+Bib-Kind: InProceedings
+Bib-Author: Anya Helene Bagge and Magne Haveraaen
+Author: %Anya% and %Magne%
+Title: Axiom-Based Transformations: Optimisation and Testing
+Event: Eighth Workshop on Language Descriptions, Tools and Applications (LDTA 2008)
+Event-Kind: Workshop
+Event-URL: http://ldta.info/2008/
+Event-Year: 2008
+Event-Month: April
+Booktitle: Proceedings of the %Event%
+Location: Budapest, Hungary
+Journal: Electronic Notes in Theoretical Computer Science
+Editor: Jurgen J. Vinju and Adrian Johnstone
+Publisher: Elsevier
+Published-Year: 2009
+Published-Month: September
+Address: 
+Volume: 238
+Issue: 5
+Pages: 17–33
+ISSN: 1571-0661
+DOI: 10.1016/j.entcs.2009.09.038
+Kind: workshop
+Category: testing,concepts,transformation
+Project: 
+Copyright: %Elsevier-Copyright%
+Abstract:
+  Programmers typically have knowledge about properties of their programs that aren't explicitly expressed in the code – properties that may be very useful for, e.g., compiler optimisation and automated testing. Although such information is sometimes written down in a formal or informal specification, it is generally not accessible to compilers and other tools. However, using the idea of concepts and axioms in the upcoming C++ standard, we may embed axioms with program code. In this paper, we sketch how such axioms can be interpreted as rewrite rules and test oracles. Rewrite rules together with user-defined transformation strategies allow us to implement program or library-specific optimisations.
